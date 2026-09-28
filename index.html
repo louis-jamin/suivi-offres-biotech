@@ -105,7 +105,7 @@
 
   /* ---- tableau ---- */
   .wrap{overflow-x:auto; padding:0 16px 56px}
-  table{border-collapse:separate; border-spacing:0; width:100%; min-width:1240px; table-layout:fixed}
+  table{border-collapse:separate; border-spacing:0; width:100%; min-width:1330px; table-layout:fixed}
   th{
     position:sticky; top:env(safe-area-inset-top, 0px); z-index:10;
     background:var(--surface-2); color:var(--ink-2);
@@ -251,8 +251,12 @@ const COLS = [
   {key:"company",     label:"Entreprise", w:"126px"},
   {key:"title",       label:"Poste",      w:"250px"},
   {key:"season",      label:"Saison",     w:"92px"},
-  {key:"first_seen",  label:"Détectée",   w:"88px"},
-  {key:"closes",      label:"End date",   w:"100px"},
+  {key:"start_date",  label:"Start date", w:"92px",
+   tip:"Début du poste, tel que l’annonce l’indique. « ~ » : date approchée (saison, ou mois cité sans année). Survolez une date pour voir la phrase de l’annonce."},
+  {key:"first_seen",  label:"Détectée",   w:"88px",
+   tip:"Le jour où le suivi a repéré l’offre pour la première fois."},
+  {key:"closes",      label:"End date",   w:"100px",
+   tip:"Date limite pour postuler : annoncée par l’entreprise, ou estimée quand l’annonce n’en donne pas."},
   {key:"requirements",label:"Prérequis",  w:"280px"},
   {key:"process",     label:"Processus",  w:"150px"},
   {key:"notes",       label:"Notes",      w:"140px"},
@@ -312,6 +316,22 @@ const isNew = j => j.first_seen && new Date(j.first_seen) >= new Date(Date.now()
 function seasonTag(s){
   const cls = {"Summer":"t-summer","Off-cycle":"t-off","Graduate":"t-grad","PhD / Thesis":"t-phd"}[s] || "t-unk";
   return `<span class="tag ${cls}">${esc(T_SEASON[s] || s)}</span>`;
+}
+
+// La date de début à la précision que l'annonce donne : jour, mois, année,
+// « ~ » pour une date approchée. Le survol montre la phrase d'origine.
+function startCell(j){
+  const iso = j.start_date || "";
+  if(!iso) return '<span class="none" title="Début non précisé dans l’annonce">—</span>';
+  const p = j.start_precision;
+  const label = p === "day" ? iso
+    : p === "month" ? iso.slice(0,7)
+    : (p === "approx" || p === "inferred") ? "~" + iso.slice(0,7)
+    : p === "year" ? iso.slice(0,4)
+    : p === "asap" ? "ASAP"
+    : iso;
+  const tip = j.start_evidence ? `« ${j.start_evidence} »` : "";
+  return `<div class="num" title="${esc(tip)}">${esc(label)}</div>`;
 }
 
 function closesCell(j){
@@ -397,7 +417,7 @@ function visible(){
 
 function buildHead(){
   document.getElementById("head").innerHTML = COLS.map(c =>
-    `<th data-sort="${c.key}" style="width:${c.w}">${c.label}<span class="ar"></span></th>`).join("");
+    `<th data-sort="${c.key}" style="width:${c.w}"${c.tip?` title="${esc(c.tip)}"`:""}>${c.label}<span class="ar"></span></th>`).join("");
   document.querySelectorAll("[data-sort]").forEach(th => th.onclick = () => {
     const k = th.dataset.sort;
     if(sortKey === k) sortDir = -sortDir; else { sortKey = k; sortDir = 1; }
@@ -408,6 +428,7 @@ function buildHead(){
 function sortVal(j,k){
   const u = ustate(j.uid);
   if(k === "closes") return j.closes_at || j.closes_estimated || "9999";
+  if(k === "start_date") return j.start_date || "9999";
   if(["interest","stage","applied_on","notes"].includes(k)) return (u[k]||"").toLowerCase();
   if(k === "requirements") return (j.requirements||[]).length;
   if(k === "process") return j.process_rounds || 0;
@@ -443,6 +464,7 @@ function render(){
         ${sub?`<div class="sub">${esc(sub)}</div>`:""}
       </td>
       <td>${seasonTag(j.season)}</td>
+      <td>${startCell(j)}</td>
       <td><div class="num">${esc(j.first_seen||"")}</div>
           ${isNew(j)?'<div style="margin-top:3px"><span class="tag t-new">new</span></div>':""}</td>
       <td>${closesCell(j)}</td>
@@ -486,7 +508,9 @@ function renderStats(shown){
       const d = days(j.closes_at || j.closes_estimated);
       return j.status==="open" && d!==null && d>=0 && d<=21;
     }).length,
-    applied: Object.values(USER).filter(u=>u.stage && u.stage!=="Not applied").length,
+    // Compté sur les offres présentes : une offre sortie du suivi ne doit
+    // pas gonfler le compteur.
+    applied: all.filter(j=>ustate(j.uid).stage!=="Not applied").length,
   };
   const defs = [
     ["open","ouvertes",n.open], ["new","nouvelles",n.new],
