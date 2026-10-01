@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30",
+  "generated_at": "2026-10-01",
   "vocab": {
     "stages": [
       "Not applied",
@@ -40,7 +40,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-07",
+      "closes_estimated": "2026-10-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -854,7 +854,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-07",
+      "closes_estimated": "2026-10-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -917,7 +917,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-12",
       "closes_at": "",
-      "closes_estimated": "2026-10-07",
+      "closes_estimated": "2026-10-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1000,8 +1000,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-01",
       "uid": "biogen-098d414c0129"
     },
     {
@@ -1116,7 +1116,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-07",
+      "closes_estimated": "2026-10-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1205,7 +1205,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-07",
+      "closes_estimated": "2026-10-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1508,8 +1508,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-01",
       "uid": "eurofins-75ed46a94596"
     },
     {
@@ -2824,6 +2824,39 @@
     },
     {
       "company": "GSK",
+      "title": "Stage : Développement et Optimisation de Méthodes Analytiques pour les Vaccins, Belgique - 2026",
+      "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Belgium-Wavre/Stage---Dveloppement-et-Optimisation-de-Mthodes-Analytiques-pour-les-Vaccins--Belgique---2026_448910",
+      "location": "2 Locations",
+      "country": "Belgium",
+      "first_seen": "2026-10-01",
+      "posted_at": "2026-10-01",
+      "closes_at": "",
+      "closes_estimated": "2026-12-15",
+      "closes_confidence": "medium",
+      "start_date": "2027-05-01",
+      "start_precision": "month",
+      "start_evidence": "Début souhaité : Mai 2027",
+      "season": "Summer",
+      "contract": "Internship",
+      "duration": "4 months",
+      "requirements": [
+        "Data Integrity, Digital Fluency, GxP Regulations, Problem Solving, Risk Awareness, Stakeholder Management",
+        "If you have a disability and require assistance during the course of the selection process, you will have the opportunity to let us know what specific assistance you require in order to make suitable arrangements.",
+        "Uniting science, technology and talent to get ahead of disease together.",
+        "Important notice to Employment businesses/ Agencies"
+      ],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "process": "1 round (unspecified)",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "gsk-ac6e4e21fd60"
+    },
+    {
+      "company": "GSK",
       "title": "Manufacturing Operations Graduate Programme, France, 2027",
       "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/France---Saint-Amand-les-Eaux/Manufacturing-Operations-Graduate-Programme--France--2027_448595",
       "location": "France - Saint-Amand-les-Eaux",
@@ -2891,8 +2924,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-01",
       "uid": "gsk-c25d9929f77e"
     },
     {
@@ -3085,7 +3118,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-10-30",
+      "closes_estimated": "2026-10-31",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3209,7 +3242,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-10-30",
+      "closes_estimated": "2026-10-31",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3248,8 +3281,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-01",
       "uid": "institut-pasteur-570dea23d0bd"
     },
     {
@@ -3503,7 +3536,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-07",
+      "closes_estimated": "2026-10-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3603,7 +3636,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-07",
+      "closes_estimated": "2026-10-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3621,6 +3654,38 @@
       "status": "open",
       "closed_on": "",
       "uid": "lesaffre-09bba52d6e4c"
+    },
+    {
+      "company": "Lesaffre",
+      "title": "Stagiaire R&D - Caractérisation fonctionnelle de parois et extraits de levures - 6 mois (H/F)",
+      "url": "https://jobs.smartrecruiters.com/lesaffre/744000152858282",
+      "location": "Marquette-lez-Lille, fr",
+      "country": "",
+      "first_seen": "2026-10-01",
+      "posted_at": "2026-10-01",
+      "closes_at": "",
+      "closes_estimated": "2026-11-10",
+      "closes_confidence": "high",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "à partir de janvier-fevrier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Fort de ses 30 ans d’expérience et de ses 170 collaborateurs dans le monde, Phileo est considéré comme un acteur majeur sur le marché de la nutrition, de la santé et du bien-être animal.",
+        "Sa capacité d’innovation et sa maitrise des processus de fabrication lui permettent de répondre aux exigences les plus fortes de l’industrie et des productions animales. Son implantation mondiale lui confère une proximité avec le terrain et une forte adaptabilité aux besoins de ses clients.",
+        "En dernière année de Master 2 biologie, immunologie ou d’école d’agronomie ou équivalent BAC+5, vous êtes à la recherche d’un stage de fin d’étude de 6 mois à partir de janvier-fevrier 2027.",
+        "Vous avez déjà une première expérience dans un laboratoire de recherche ou en R&D, vous êtes motivé(e), passionné(e), vous avez de bonnes connaissances biologie cellulaire et immunologie."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "1 round (unspecified)",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "lesaffre-4727e1363917"
     },
     {
       "company": "Nemera",
@@ -3846,14 +3911,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois optimisation procédés en bioproduction",
+      "title": "stage 6 mois support procédés purification anticorps",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-optimisation-procds-en-bioproduction_R2872559",
       "location": "Vitry-sur-Seine",
       "country": "France",
       "first_seen": "2026-09-30",
-      "posted_at": "2026-09-30",
-      "closes_at": "2026-11-30",
-      "closes_estimated": "2026-11-30",
+      "posted_at": "2026-10-01",
+      "closes_at": "2026-12-01",
+      "closes_estimated": "2026-12-01",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -3862,8 +3927,8 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Compétences techniques et relationnelles : Curiosité , rigueur, sens de l’analyse. Caa dans un environnement GxP. Maitrise des outils bureautiques",
-        "Éducation : bac+5 en biotechnologie, en génie des procédés, en pharmacie, en sciences"
+        "Compétences techniques et relationnelles : Adaptabilité, dynamisme, proactivité. Expérience dans un environnement industriel GxP, connaissances en purification de protéines, chromatographie et filtration , notions en amélioration continue",
+        "Éducation : bac+5 en en génie des procédés, en pharmacie, en sciences, en biotechnologie"
       ],
       "languages": [
         "English"
@@ -4034,6 +4099,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois modélisation et optimisation en pharmacocinétique",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois--modlisation-et-optimisation-en-pharmacocintique_R2873149",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-01",
+      "posted_at": "2026-10-01",
+      "closes_at": "2026-12-01",
+      "closes_estimated": "2026-12-01",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : Autonomie, rigueur, force de proposition. Maîtrise du logiciel R, expérience de NONMEM et d’outils d’optimal design",
+        "Éducation : bac+5 en pharmacométrie, biostatistique ou modélisation"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-250f8678e1b1"
+    },
+    {
+      "company": "Sanofi",
       "title": "Medical Affairs Internship",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Milano/Medical-Affairs-Internship_R2872039",
       "location": "Milano",
@@ -4062,6 +4157,35 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-27279c7edc40"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois affaires réglementaires cmc vaccins",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-affaires-rglementaires-cmc-vaccins_R2873245",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-01",
+      "posted_at": "2026-10-01",
+      "closes_at": "2027-02-01",
+      "closes_estimated": "2027-02-01",
+      "closes_confidence": "stated",
+      "start_date": "2027-03-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+ 5 en pharmacie, affaires réglementaires ou école d’ingénieur"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-2a5a01b1012e"
     },
     {
       "company": "Sanofi",
@@ -4499,14 +4623,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "Manufacturing & Supply Services Trainee",
+      "title": "Manufacturing & Supply Services Trainee (German Speaker)",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/M-S-Services-Trainee--German-speaker--_R2872672",
       "location": "Budapest",
       "country": "Hungary",
       "first_seen": "2026-09-24",
-      "posted_at": "2026-09-30",
-      "closes_at": "2026-11-30",
-      "closes_estimated": "2026-11-30",
+      "posted_at": "2026-10-01",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
       "closes_confidence": "stated",
       "start_date": "",
       "start_precision": "",
@@ -4571,9 +4695,9 @@
       "location": "Gentilly",
       "country": "France",
       "first_seen": "2026-09-24",
-      "posted_at": "2026-09-24",
-      "closes_at": "2027-01-24",
-      "closes_estimated": "2027-01-24",
+      "posted_at": "2026-10-01",
+      "closes_at": "2027-02-01",
+      "closes_estimated": "2027-02-01",
       "closes_confidence": "stated",
       "start_date": "2027-04-01",
       "start_precision": "month",
@@ -4859,7 +4983,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-07",
+      "closes_estimated": "2026-10-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
