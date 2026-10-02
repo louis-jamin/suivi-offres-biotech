@@ -1231,9 +1231,9 @@
       "location": "Warsaw",
       "country": "",
       "first_seen": "2026-09-18",
-      "posted_at": "2026-08-24",
+      "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-09-28",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "high",
       "start_date": "",
       "start_precision": "",
@@ -1257,8 +1257,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-09-18",
+      "status": "open",
+      "closed_on": "",
       "uid": "docplanner-6aa2fafc2447"
     },
     {
@@ -1268,9 +1268,9 @@
       "location": "Barcelona",
       "country": "",
       "first_seen": "2026-09-18",
-      "posted_at": "2026-09-10",
+      "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "high",
       "start_date": "",
       "start_precision": "",
@@ -1293,8 +1293,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-09-18",
+      "status": "open",
+      "closed_on": "",
       "uid": "docplanner-f934dd8886dc"
     },
     {
@@ -2471,9 +2471,9 @@
       "location": "UK - County Durham - Barnard Castle",
       "country": "United Kingdom",
       "first_seen": "2026-09-23",
-      "posted_at": "2026-09-29",
+      "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "high",
       "start_date": "2027-01-01",
       "start_precision": "year",
@@ -3069,8 +3069,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-02",
       "uid": "gsk-e149de217c46"
     },
     {
@@ -4505,6 +4505,65 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 3 mois technicien.ne de laboratoire downstream",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-3-mois-technicienne-de-laboratoire-downstream_R2873361",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-02",
+      "posted_at": "2026-10-02",
+      "closes_at": "2027-01-22",
+      "closes_estimated": "2027-01-22",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "3 months",
+      "requirements": [
+        "Éducation : bac+2 ou 3 en biochimie, biotechnologies"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-3647bac24de5"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois – biologie moléculaire target engagement",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois---biologie-molculaire-target-engagement_R2872329",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-02",
+      "posted_at": "2026-10-02",
+      "closes_at": "2027-01-02",
+      "closes_estimated": "2027-01-02",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : février",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, autonomie, esprit analytique. Connaissance du splicing de l’ARN et en biologie moléculaire. Expérience en EMSA, techniques de liaison protéine, ARN.",
+        "Éducation : bac +5 en biologie moléculaire ou en biologie cellulaire"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-4e0232c0caec"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois développement de procédés culture cellulaire",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois--dveloppement-de-procds-culture-cellulaire_R2871497",
       "location": "Marcy-l'Etoile",
@@ -4532,6 +4591,35 @@
       "status": "closed",
       "closed_on": "2026-09-30",
       "uid": "sanofi-4fc689302434"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois développement de procédés biotechnologiques downstream",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-dveloppement-de-procds-biotechnologiques-downstream_R2873360",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-02",
+      "posted_at": "2026-10-02",
+      "closes_at": "2027-01-22",
+      "closes_estimated": "2027-01-22",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en biochimie, biotechnologies"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-542b9e052175"
     },
     {
       "company": "Sanofi",
@@ -5098,6 +5186,37 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – biologie moléculaire et cellulaire",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois---biologie-molculaire-et-cellulaire_R2872388",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-02",
+      "posted_at": "2026-10-02",
+      "closes_at": "2027-01-02",
+      "closes_estimated": "2027-01-02",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : février",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Développer des protocoles d’expérience en biologie cellulaire",
+        "Compétences techniques et relationnelles : rigueur, autonomie, esprit analytique. Connaissance du splicing de l’ARN. Maitrise des techniques de biologie moléculaire et cellulaire.",
+        "Éducation : bac +5 en biologie moléculaire ou biologie cellulaire"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-b22faa2cd339"
+    },
+    {
+      "company": "Sanofi",
       "title": "Manufacturing & Supply Services Trainee (German Speaker)",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/M-S-Services-Trainee--German-speaker--_R2872672",
       "location": "Budapest",
@@ -5381,6 +5500,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-e5ed55e3b2ce"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois – biologie moléculaire oncologie",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois---biologie-molculaire-oncologie_R2872328",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-02",
+      "posted_at": "2026-10-02",
+      "closes_at": "2027-01-02",
+      "closes_estimated": "2027-01-02",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : février",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, autonomie, esprit analytique. Connaissance du splicing de l’ARN. Maitrise des techniques de biologie moléculaire et cellulaire.",
+        "Éducation : bac +5 en biologie moléculaire ou en biologie cellulaire"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-e75bf7faae02"
     },
     {
       "company": "Sanofi",
