@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02",
+  "generated_at": "2026-10-03",
   "vocab": {
     "stages": [
       "Not applied",
@@ -40,7 +40,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-09",
+      "closes_estimated": "2026-10-10",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -255,8 +255,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-0bf933849daf"
     },
     {
@@ -289,8 +289,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-11e023abffdf"
     },
     {
@@ -348,8 +348,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-29cbec04a8ee"
     },
     {
@@ -382,8 +382,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-2b4c6d5f73d3"
     },
     {
@@ -416,8 +416,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-31acc4bc6f59"
     },
     {
@@ -443,8 +443,8 @@
       "languages": [],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-4763cf2eef50"
     },
     {
@@ -477,8 +477,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-4e34e393dc61"
     },
     {
@@ -544,8 +544,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-63e252170cee"
     },
     {
@@ -578,8 +578,8 @@
       "languages": [],
       "process": "HR screen",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-6526924acfe8"
     },
     {
@@ -612,8 +612,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-684e97bf5211"
     },
     {
@@ -646,8 +646,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-7236bbf8811f"
     },
     {
@@ -680,8 +680,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-796e3f324750"
     },
     {
@@ -714,8 +714,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-7de7ba451e7c"
     },
     {
@@ -748,8 +748,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-8e99b40ad25a"
     },
     {
@@ -782,8 +782,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-91b1593a5294"
     },
     {
@@ -816,8 +816,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-938efee6dcf2"
     },
     {
@@ -854,7 +854,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-09",
+      "closes_estimated": "2026-10-10",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -904,8 +904,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "astrazeneca-a73f3be087d2"
     },
     {
@@ -917,7 +917,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-12",
       "closes_at": "",
-      "closes_estimated": "2026-10-09",
+      "closes_estimated": "2026-10-10",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1116,7 +1116,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-09",
+      "closes_estimated": "2026-10-10",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1205,7 +1205,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-09",
+      "closes_estimated": "2026-10-10",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3154,7 +3154,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3309,7 +3309,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3317,9 +3317,7 @@
       "season": "Off-cycle",
       "contract": "Internship",
       "duration": "",
-      "requirements": [
-        "Master 2 on Feature Engineering for Malaria Genomic Epidemiology"
-      ],
+      "requirements": [],
       "languages": [],
       "process": "",
       "process_rounds": null,
@@ -3385,8 +3383,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-03",
       "uid": "institut-pasteur-6ec53bd48690"
     },
     {
@@ -3603,7 +3601,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-09",
+      "closes_estimated": "2026-10-10",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3703,7 +3701,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-09",
+      "closes_estimated": "2026-10-10",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5672,7 +5670,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-09",
+      "closes_estimated": "2026-10-10",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
