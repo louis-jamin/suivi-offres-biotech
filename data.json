@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04",
+  "generated_at": "2026-10-05",
   "vocab": {
     "stages": [
       "Not applied",
@@ -40,7 +40,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -221,8 +221,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-05",
       "uid": "amgen-a878d1a983b8"
     },
     {
@@ -854,7 +854,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -917,7 +917,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-12",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1116,7 +1116,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1205,7 +1205,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1547,6 +1547,31 @@
       "status": "closed",
       "closed_on": "2026-10-01",
       "uid": "eurofins-75ed46a94596"
+    },
+    {
+      "company": "Eurofins",
+      "title": "Stage Analista Chimico LC/GC-MS - Medical Devices Lab",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000153493909",
+      "location": "Milan, it",
+      "country": "",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "",
+      "closes_estimated": "2026-11-14",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-78cb07af4207"
     },
     {
       "company": "Eurofins",
@@ -1952,8 +1977,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-05",
       "uid": "gsk-12d2480c49ea"
     },
     {
@@ -2496,8 +2521,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-05",
       "uid": "gsk-7aaa2d122ee4"
     },
     {
@@ -2887,8 +2912,8 @@
       ],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-05",
       "uid": "gsk-ac6e4e21fd60"
     },
     {
@@ -3154,7 +3179,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3309,7 +3334,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3493,39 +3518,6 @@
     },
     {
       "company": "Ipsen",
-      "title": "Stagiaire Business Analysis & Data Mining",
-      "url": "https://ipsen.wd103.myworkdayjobs.com/Ipsen_Careers/job/Paris/Stagiaire-Business-Analysis---Data-Mining_R-22414-1",
-      "location": "Paris",
-      "country": "France",
-      "first_seen": "2026-09-28",
-      "posted_at": "2026-09-28",
-      "closes_at": "",
-      "closes_estimated": "2026-11-12",
-      "closes_confidence": "high",
-      "start_date": "",
-      "start_precision": "",
-      "start_evidence": "",
-      "season": "Off-cycle",
-      "contract": "Internship",
-      "duration": "",
-      "requirements": [
-        "Formation : en cours d’obtention d’un diplôme BAC + 4 ou +5 / École Supérieure de Commerce, Ingénieur, Master santé, Pharmacie ou 3ème cycle Statistiques ou Data Science",
-        "Qualités : rigueur, autonomie, bon relationnel, esprit d’équipe, appétence pour le traitement de données et les chiffres, fortes capacités d’analyse et de synthèse",
-        "Maitrise d’Excel & Power Point",
-        "Sens du business y compris la compréhension des tendances de l’univers de la santé et l'industrie pharmaceutique.",
-        "Anglais opérationnel"
-      ],
-      "languages": [
-        "English"
-      ],
-      "process": "",
-      "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
-      "uid": "ipsen-8e89736ffa05"
-    },
-    {
-      "company": "Ipsen",
       "title": "Stagiaire Affaires Médicales Neurosciences",
       "url": "https://ipsen.wd103.myworkdayjobs.com/Ipsen_Careers/job/Paris/Stagiaire-Affaires-Mdicales-Neurosciences_R-22413",
       "location": "Paris",
@@ -3601,7 +3593,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3701,7 +3693,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3820,6 +3812,35 @@
       "status": "open",
       "closed_on": "",
       "uid": "nemera-d7eddd784949"
+    },
+    {
+      "company": "Roche",
+      "title": "Student Internship - Process Development for Oligonucleotides",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Student-Internship---Process-Development-for-Oligonucleotides_202610-124956",
+      "location": "Basel",
+      "country": "Switzerland",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "2026-10-14",
+      "closes_estimated": "2026-10-14",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "12 months",
+      "requirements": [
+        "With this role, we offer a collaborative work environment and competitive internship compensation. You will receive dedicated mentorship and hands-on training, giving you direct exposure to cutting-edge technologies and methodologies in oligonucleotide process development and manufacturing.",
+        "Key qualifications and skills for this internship include:",
+        "Enrollment at a university as a Master student, or completed Master studies no longer than 12 months, in the field of Chemistry / Biochemistry, Chemical Engineering, or related field."
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-14f90127ae6c"
     },
     {
       "company": "Roche",
@@ -4384,6 +4405,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – documentation opérations qualité du site",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois---documentation-oprations-qualit-du-site_R2873975",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "2027-01-05",
+      "closes_estimated": "2027-01-05",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +4 ou bac +5 en qualité, pharmacie, science de la vie ou ingénierie généraliste"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-2130fd38393d"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois modélisation et optimisation pharmacocinétique pédiatrique",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois--modlisation-et-optimisation-en-pharmacocintique_R2873149",
       "location": "Montpellier",
@@ -4474,6 +4524,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois data integrity et transformation digitale",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-data-integrity-et-transformation-digitale_R2873971",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "2027-02-05",
+      "closes_estimated": "2027-02-05",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+ 4 ou bac+ 5 en qualité, pharmacie, systèmes d’informations ou école d’ingénieur"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-2ec9b0b9bc2a"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois biologie cellulaire",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-biologie-cellulaire_R2870762",
       "location": "Vitry-sur-Seine",
@@ -4526,8 +4605,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-05",
       "uid": "sanofi-3647bac24de5"
     },
     {
@@ -4688,6 +4767,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 4/6 mois support laboratoire physico chimie",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-4-6-mois-support-laboratoire-physico-chimie_R2873919",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "2027-01-05",
+      "closes_estimated": "2027-01-05",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en pharmacie ou qualité"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-673cd76b9e07"
+    },
+    {
+      "company": "Sanofi",
       "title": "Werkstudent*in Engineering Wintersemesterferien 2026/2027",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Engineering-Wintersemesterferien-2026-2027_R2868645",
       "location": "Frankfurt am Main",
@@ -4815,6 +4923,72 @@
       "status": "closed",
       "closed_on": "2026-09-28",
       "uid": "sanofi-7d0935c1b313"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Ethics & Business Integrity Trainee (Compliance)",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Ethics---Business-Integrity-Trainee--Compliance-_R2873767",
+      "location": "Budapest",
+      "country": "Hungary",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "2026-10-14",
+      "closes_estimated": "2026-10-14",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "Strong communication and content creation skills (ability to convey complex topics in an accessible and engaging way)",
+        "High level of attention to detail and reliability",
+        "Strong sense of discretion and confidentiality, given the sensitive nature of ethics and compliance work",
+        "Ability to work independently",
+        "Good organizational and presentation skills",
+        "Languages:  English and Hungarian in advanced level (strong written skills in both languages are essential for translation and content creation tasks)",
+        "Why choose us?",
+        "Bring the miracles of science to life alongside a supportive, future-focused team."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-7e5c401092f0"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois digitalisation processus systèmes informatisés qualité",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-digitalisation-processus-systmes-informatiss-qualit_R2873998",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "2027-02-05",
+      "closes_estimated": "2027-02-05",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, autonomie, force de proposition. Connaissances en qualité, gestion d’outils informatiques et intelligence artificielle. Maîtrise de Power BI",
+        "Éducation : bac+ 4 ou bac+ 5 en qualité ou pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-7edc4d077e98"
     },
     {
       "company": "Sanofi",
@@ -5124,6 +5298,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois amélioration continue et digitalisation qualité",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois--support-projet-qualit_R2873996",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "2027-02-05",
+      "closes_estimated": "2027-02-05",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+ 4 ou bac+ 5 en qualité ou pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-a8dae8e17b2f"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois développement de procédés de culture cellulaire",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-dveloppement-de-procds-de-culture-cellulaire_R2873357",
       "location": "Vitry-sur-Seine",
@@ -5276,8 +5479,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-05",
       "uid": "sanofi-c76a27e892a5"
     },
     {
@@ -5438,14 +5641,43 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – formation opérations qualité du site",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois---formation-oprations-qualit-du-site_R2873964",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-05",
+      "posted_at": "2026-10-05",
+      "closes_at": "2027-01-05",
+      "closes_estimated": "2027-01-05",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +4 ou bac +5 en qualité, pharmacie, science de la vie ou ingénierie généraliste"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-dfc1bc7f6172"
+    },
+    {
+      "company": "Sanofi",
       "title": "Praktikum und Anfertigung der Master Thesis im Bereich QC Equipment",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Frankfurt-am-Main/Praktikum-und-Anfertigung-der-Master-Thesis-im-Bereich-QC-Equipment_R2870526",
       "location": "Frankfurt am Main",
       "country": "Germany",
       "first_seen": "2026-09-18",
-      "posted_at": "2026-09-10",
-      "closes_at": "2027-02-28",
-      "closes_estimated": "2027-02-28",
+      "posted_at": "2026-10-05",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
       "closes_confidence": "stated",
       "start_date": "",
       "start_precision": "",
@@ -5670,7 +5902,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5704,7 +5936,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-08-19",
       "closes_at": "",
-      "closes_estimated": "2026-10-11",
+      "closes_estimated": "2026-10-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
