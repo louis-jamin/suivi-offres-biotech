@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05",
+  "generated_at": "2026-10-06",
   "vocab": {
     "stages": [
       "Not applied",
@@ -40,7 +40,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -854,7 +854,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -917,7 +917,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-12",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1116,7 +1116,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1205,7 +1205,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1810,8 +1810,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-06",
       "uid": "eurofins-e831fc7dea32"
     },
     {
@@ -2557,8 +2557,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-06",
       "uid": "gsk-80e3b06253e5"
     },
     {
@@ -2735,8 +2735,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-06",
       "uid": "gsk-98dcc020d4dc"
     },
     {
@@ -2996,7 +2996,7 @@
       "location": "UK - Hertfordshire - Stevenage",
       "country": "United Kingdom",
       "first_seen": "2026-09-18",
-      "posted_at": "2026-09-22",
+      "posted_at": "2026-10-06",
       "closes_at": "2026-10-06",
       "closes_estimated": "2026-10-06",
       "closes_confidence": "stated",
@@ -3141,7 +3141,7 @@
       "location": "UK - Hertfordshire - Stevenage",
       "country": "United Kingdom",
       "first_seen": "2026-09-22",
-      "posted_at": "2026-09-22",
+      "posted_at": "2026-10-06",
       "closes_at": "2026-10-13",
       "closes_estimated": "2026-10-13",
       "closes_confidence": "stated",
@@ -3154,7 +3154,7 @@
       "requirements": [
         "Please read the degree requirements for each role carefully before applying.",
         "Other requirements: You will have completed a minimum of 2 years of your undergraduate degree but will not have graduated at the start of your placement. You must be enrolled at a UK (United Kingdom) or ROI (Republic of Ireland) University for the duration of your placement.",
-        "Pre-application activity: Before applying, you'll need to obtain an application code by completing a short activity in Connectr , our candidate engagement platform.",
+        "Pre-application activity: Before applying, you'll need to obtain an application code by completing a short activity in Connectr, our candidate engagement platform.",
         "This activity is designed to encourage considered applications. Once completed, you'll receive your unique application code required to proceed with your application.",
         "If you have already graduated with a Bachelor’s Degree and are currently studying a postgraduate Masters, you are not eligible for this programme.",
         "Language requirement : Written and spoken fluency in English",
@@ -3171,6 +3171,42 @@
       "uid": "gsk-e8e1d54889dd"
     },
     {
+      "company": "GSK",
+      "title": "Medical Governance Trainee",
+      "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Lisbon/Medical-Governance-Trainee_448901",
+      "location": "Lisbon",
+      "country": "Portugal",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2026-10-12",
+      "closes_estimated": "2026-10-12",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "PhD / Thesis",
+      "contract": "PhD",
+      "duration": "",
+      "requirements": [
+        "Degree in Pharmaceutical Sciences",
+        "Fluent in Portuguese and good level of English",
+        "Good knowledge of Microsoft Office (Word, Excel, PowerPoint)",
+        "Strong organization and attention to detail",
+        "Previous internship or exposure to medical affairs or similar environments",
+        "Good written and verbal communication skills",
+        "Interest in the pharmaceutical industry and its dynamics",
+        "Curiosity for digital tools and innovation"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "Final / on-site",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "gsk-f5e1f9f7d971"
+    },
+    {
       "company": "Institut Curie",
       "title": "Internships for students and doctors",
       "url": "https://institut-curie.org/internships-students-and-doctors",
@@ -3179,7 +3215,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-04",
+      "closes_estimated": "2026-11-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3334,7 +3370,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-04",
+      "closes_estimated": "2026-11-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3411,6 +3447,36 @@
       "status": "closed",
       "closed_on": "2026-10-03",
       "uid": "institut-pasteur-6ec53bd48690"
+    },
+    {
+      "company": "Institut Pasteur",
+      "title": "PhD position to resolve structural ribosome heterogeneity in the human malaria parasite Parasite RNA Biology",
+      "url": "https://research.pasteur.fr/en/job/phd-position-to-resolve-structural-ribosome-heterogeneity-in-the-human-malaria-parasite/",
+      "location": "",
+      "country": "",
+      "first_seen": "2026-10-06",
+      "posted_at": "",
+      "closes_at": "2026-11-06",
+      "closes_estimated": "2026-11-06",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "PhD / Thesis",
+      "contract": "PhD",
+      "duration": "",
+      "requirements": [
+        "PhD position to resolve structural ribosome heterogeneity in the human malaria parasite | Research - Institut Pasteur",
+        "PhD position to resolve structural ribosome heterogeneity in the human malaria parasite",
+        "The Baumgarten Lab at the Institute Pasteur in Paris, France, is looking for a PhD student to join our “Parasite RNA Biology” research group. The position is intended for a student holding a MSc […]",
+        "to join our “Parasite RNA Biology” research group. The position is intended for a student holding a MSc degree (or equivalent) and is fully funded for 3-years."
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "institut-pasteur-acb8094129e2"
     },
     {
       "company": "Institut Pasteur",
@@ -3593,7 +3659,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3693,7 +3759,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4304,8 +4370,8 @@
       ],
       "process": "HR screen",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-06",
       "uid": "sanofi-10bfe186e220"
     },
     {
@@ -4336,6 +4402,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-18d772f16098"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois – toxicologie cardiaque",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois---toxicologie-cardiaque_R2873955",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2027-01-06",
+      "closes_estimated": "2027-01-06",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : février",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, force de proposition, esprit de synthèse. Connaissances en biologie, physiologie cardiaque et en expérimentation animale. Maitrise des techniques d’essais invitro et de culture cellulaire",
+        "Éducation : bac +5 en sciences de la vie, biologie, bioingénierie, pharmacie ou toxicologie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-1b077e889c3f"
     },
     {
       "company": "Sanofi",
@@ -4671,8 +4767,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-06",
       "uid": "sanofi-4e0232c0caec"
     },
     {
@@ -5058,6 +5154,37 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – affaires publiques vaccins",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois---affaires-publiques-vaccins_R2873832",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2027-01-06",
+      "closes_estimated": "2027-01-06",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en sciences politiques, affaires publiques ou santé publique",
+        "Education : master’s degree in political sciences, public affairs or public health",
+        "Languages : fluent in English"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-7faa890cd766"
+    },
+    {
+      "company": "Sanofi",
       "title": "Quality Internship",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Milano/Quality-Internship_R2869562",
       "location": "Milano",
@@ -5119,6 +5246,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 4 mois – toxicologie",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-4-mois---toxicologie_R2873950",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2027-01-06",
+      "closes_estimated": "2027-01-06",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : février",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "4 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, force de proposition, esprit de synthèse. Maitrise des outils de recherche bibliographique. Connaissances des excipients pharmaceutiques et toxicologie. Appétence pour l’IA et la bureautique.",
+        "Éducation : bac +4 ou bac +5 en pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-83884abe2e0c"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois développement de procédé en culture cellulaire",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-dveloppement-de-procd-en-culture-cellulaire_R2872532",
       "location": "Marcy-l'Etoile",
@@ -5149,6 +5306,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois coordination biobanques vaccins",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-coordination-biobanques-vaccins_R2873707",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en biologie, biobanques, pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-8e374f31d229"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois - économie de la santé et résultats cliniques",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois---conomie-de-la-sant-et-rsultats-cliniques_R2873842",
       "location": "Lyon",
@@ -5175,6 +5361,35 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-8e81c5acbb3f"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois – in vivo oncologie",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois---in-vivo-oncologie_R2872056",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2027-01-06",
+      "closes_estimated": "2027-01-06",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : janvier",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en immunologie, oncologie ou biologie cellulaire"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-8f924f851477"
     },
     {
       "company": "Sanofi",
@@ -5334,14 +5549,44 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois contrôle avancé et automatique",
+      "title": "stage 6 mois - audit interne R&D et médical",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois---audit-interne_R2873237",
+      "location": "Gentilly",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2026-12-06",
+      "closes_estimated": "2026-12-06",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier à mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : autonomie, rigueur, proactivité. Connaissances des processus médicaux et de recherche et développement, maitrise du Pack Office et des outils d’IA, connaissances de Power BI et de l'analyse des données",
+        "Éducation : bac+5 en pharmacie, en biologie ou en audit"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-a18114eaf362"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois contrôle commande procédés industriels",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-contrle-avanc-et-automatique_R2873162",
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-09-30",
-      "posted_at": "2026-09-30",
-      "closes_at": "2027-01-30",
-      "closes_estimated": "2027-01-30",
+      "posted_at": "2026-10-06",
+      "closes_at": "2027-02-06",
+      "closes_estimated": "2027-02-06",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
@@ -5550,6 +5795,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois microbiologie",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-microbiologie_R2873855",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février ou mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, esprit d’équipe, capacité d’analyse, esprit critique. Maîtrise des techniques de microbiologie analytique, BPF. Notions en automatisation et IA",
+        "Éducation : bac+5 en microbiologie, biotechnologies, pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-c55d71bbc1f6"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois - supply chain et optimisation de processus",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-supply-chain-et-optimisation-de-processus_R2871977",
       "location": "Marcy-l'Etoile",
@@ -5577,6 +5852,64 @@
       "status": "closed",
       "closed_on": "2026-10-05",
       "uid": "sanofi-c76a27e892a5"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois modélisation rénale microfluidique",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-modlisation-rnale-microfluidique_R2873726",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en pharmacologie, biologie cellulaire, biochimie, pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-cb4e5a4fea8f"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 5 mois analyse de dissolution",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-5-mois-analyse-de-dissolution_R2874016",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2027-01-14",
+      "closes_estimated": "2027-01-14",
+      "closes_confidence": "stated",
+      "start_date": "2027-04-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : avril 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "5 months",
+      "requirements": [
+        "Éducation : bac+2 en chimie analytique, biologie ou biochimie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-cd4ab5d16e69"
     },
     {
       "company": "Sanofi",
@@ -5792,6 +6125,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois évaluation modèle in vitro",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois---valuation-modle-in-vitro_R2873720",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-06",
+      "posted_at": "2026-10-06",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en pharmacologie, toxicologie, pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-e4070c5d0144"
+    },
+    {
+      "company": "Sanofi",
       "title": "Werkstudent*in IT/Data Sciences - Wintersemesterferien 2026/2027",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-IT-Data-Sciences---Wintersemesterferien-2026-2027_R2868647",
       "location": "Frankfurt am Main",
@@ -5852,8 +6214,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-06",
       "uid": "sanofi-e75bf7faae02"
     },
     {
@@ -5887,21 +6249,21 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 4 mois amélioration continue et qualité",
+      "title": "stage 4 à 6 mois amélioration continue et qualité",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-4-mois-amlioration-continue-et-qualit_R2873393",
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-05",
-      "posted_at": "2026-10-05",
+      "posted_at": "2026-10-06",
       "closes_at": "2026-12-25",
       "closes_estimated": "2026-12-25",
       "closes_confidence": "stated",
-      "start_date": "2027-05-01",
+      "start_date": "2027-01-01",
       "start_precision": "month",
-      "start_evidence": "A partir de : mai 2027",
-      "season": "Summer",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
       "contract": "Internship",
-      "duration": "4 months",
+      "duration": "6 months",
       "requirements": [
         "Compétences techniques et relationnelles : rigueur, autonomie, force de proposition. Connaissances en qualité et en gestion des outils informatisés, expérience dans l’industrie",
         "Éducation : bac+5 en qualité ou pharmacie"
@@ -6056,7 +6418,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -6090,7 +6452,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-08-19",
       "closes_at": "",
-      "closes_estimated": "2026-10-12",
+      "closes_estimated": "2026-10-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
