@@ -169,9 +169,9 @@
       "location": "Ireland - Dun Laoghaire",
       "country": "Ireland",
       "first_seen": "2026-09-29",
-      "posted_at": "2026-09-29",
+      "posted_at": "2026-10-07",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
+      "closes_estimated": "2026-11-21",
       "closes_confidence": "high",
       "start_date": "2027-01-01",
       "start_precision": "year",
@@ -187,8 +187,8 @@
       "languages": [],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "closed",
-      "closed_on": "2026-10-07",
+      "status": "open",
+      "closed_on": "",
       "uid": "amgen-858ba0117d07"
     },
     {
@@ -4412,6 +4412,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – assurance qualité système",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois---assurance-qualit-systme_R2872751",
+      "location": "Gentilly",
+      "country": "France",
+      "first_seen": "2026-10-07",
+      "posted_at": "2026-10-07",
+      "closes_at": "2027-01-07",
+      "closes_estimated": "2027-01-07",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en sciences de la vie, chimie ou pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-10f81af9a82d"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois bioanalyse",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-bioanalyse_R2872694",
       "location": "Vitry-sur-Seine",
@@ -4904,6 +4933,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – innovation ARNm bioprocédés",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois---innovation-ARNm-bioprocds_R2874091",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-07",
+      "posted_at": "2026-10-07",
+      "closes_at": "2027-01-07",
+      "closes_estimated": "2027-01-07",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : janvier",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en génie biochimique, biotechnologies ou bioprocédés"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-60faf55762e0"
+    },
+    {
+      "company": "Sanofi",
       "title": "Medical Affair Internship",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Milano/Medical-Affair-Internship_R2870011",
       "location": "Milano",
@@ -4932,6 +4990,36 @@
       "status": "closed",
       "closed_on": "2026-09-23",
       "uid": "sanofi-625d09fa9124"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois projet R&D vaccins",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-projet-R-D-vaccins_R2873987",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-07",
+      "posted_at": "2026-10-07",
+      "closes_at": "2027-01-07",
+      "closes_estimated": "2027-01-07",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, aisance relationnelle, esprit d’équipe. Compétences en culture cellulaire, biochimie, microscopie optique, bioinformatique. Expérience de culture cellulaire sur des modèles 3D, analyse d’image de microscopie, analyse de données, R, Python",
+        "Éducation : bac+5 en biologie, biotechnologies, biochimie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-651f99f5cce3"
     },
     {
       "company": "Sanofi",
@@ -5025,6 +5113,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-708c8f4a4ba7"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois pilotage formation compliance supply chain clinique",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-pilotage-formation-compliance-supply-chain-clinique_R2873891",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-07",
+      "posted_at": "2026-10-07",
+      "closes_at": "2027-01-07",
+      "closes_estimated": "2027-01-07",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : aisance relationnelle, esprit de synthèse, autonomie. Connaissances en Power BI, outils de data visualisation et environnements réglementés. Maîtrise du pack Office",
+        "Éducation : bac+5 en pharmacie, sciences de la vie ou ingénierie industrielle"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-799d7668eb2b"
     },
     {
       "company": "Sanofi",
@@ -5339,6 +5457,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-86fbef331e4a"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois projet et optimisation processus supply chain",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-projet-et-optimisation-processus-supply-chain_R2873779",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-07",
+      "posted_at": "2026-10-07",
+      "closes_at": "2027-01-07",
+      "closes_estimated": "2027-01-07",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : esprit de synthèse, esprit d’équipe, rigueur. Connaissances en outils de cartographie de processus, gestion de projet et environnement réglementé. Maîtrise du pack Office",
+        "Éducation : bac+5 en pharmacie, sciences de la vie, ingénierie industrielle"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-8a91922de865"
     },
     {
       "company": "Sanofi",
@@ -5847,8 +5995,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-07",
       "uid": "sanofi-b22faa2cd339"
     },
     {
@@ -5890,14 +6038,50 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois microbiologie",
+      "title": "Medical Trainee",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Budapest/Medical-Trainee_R2872408",
+      "location": "Budapest",
+      "country": "Hungary",
+      "first_seen": "2026-10-07",
+      "posted_at": "2026-10-07",
+      "closes_at": "2026-11-07",
+      "closes_estimated": "2026-11-07",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "· Strong collaboration and teamwork skills",
+        "· Precision and attention to detail",
+        "· Good working knowledge of standard office software (MS Office, CRM systems)",
+        "· Hungarian (Fluent)",
+        "· English (Intermediate)",
+        "Why choose us?",
+        "· Bring the miracles of science to life alongside a supportive, future-focused team.",
+        "· An international work environment, in which you can develop your talent and realize ideas and innovations within a competent team"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-bc1d32f861ae"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois microbiologie et IA",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-microbiologie_R2873855",
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-10-06",
-      "posted_at": "2026-10-06",
-      "closes_at": "2026-12-31",
-      "closes_estimated": "2026-12-31",
+      "posted_at": "2026-10-07",
+      "closes_at": "2027-01-07",
+      "closes_estimated": "2027-01-07",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
@@ -5906,7 +6090,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Compétences techniques et relationnelles : rigueur, esprit d’équipe, capacité d’analyse, esprit critique. Maîtrise des techniques de microbiologie analytique, BPF. Notions en automatisation et IA",
+        "Compétences techniques et relationnelles : rigueur, esprit d’équipe, capacité d’analyse et esprit critique. Maîtrise des techniques de microbiologie analytique, BPF. Notions en automatisation et IA",
         "Éducation : bac+5 en microbiologie, biotechnologies, pharmacie"
       ],
       "languages": [
@@ -6066,14 +6250,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois - affaires réglementaires marchés émergents",
+      "title": "stage 6 mois affaires technico-réglementaires",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois---affaires-rglementaires-marchs-mergents_R2872908",
       "location": "Gentilly",
       "country": "France",
       "first_seen": "2026-09-30",
-      "posted_at": "2026-09-30",
-      "closes_at": "2027-01-30",
-      "closes_estimated": "2027-01-30",
+      "posted_at": "2026-10-07",
+      "closes_at": "2027-02-07",
+      "closes_estimated": "2027-02-07",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
