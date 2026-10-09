@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08",
+  "generated_at": "2026-10-09",
   "vocab": {
     "stages": [
       "Not applied",
@@ -879,7 +879,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-10-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -942,7 +942,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-12",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-10-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1141,7 +1141,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-10-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1230,7 +1230,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-10-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1475,8 +1475,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-09",
       "uid": "eurofins-670a47dfb3b8"
     },
     {
@@ -3337,7 +3337,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-07",
+      "closes_estimated": "2026-11-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3492,7 +3492,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-07",
+      "closes_estimated": "2026-11-08",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3781,7 +3781,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-10-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3881,7 +3881,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-10-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3931,6 +3931,34 @@
       "status": "open",
       "closed_on": "",
       "uid": "lesaffre-4727e1363917"
+    },
+    {
+      "company": "Nabla",
+      "title": "Machine Learning Internship 2026",
+      "url": "https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf",
+      "location": "Paris office",
+      "country": "",
+      "first_seen": "2026-10-09",
+      "posted_at": "2026-10-08",
+      "closes_at": "",
+      "closes_estimated": "2026-11-12",
+      "closes_confidence": "high",
+      "start_date": "2027-01-01",
+      "start_precision": "year",
+      "start_evidence": "Start Date: 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "Experience with React, GraphQL, or cloud infrastructure.",
+        "Knowledge of CI/CD, Docker, or automated testing."
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "nabla-b3f6a575aa07"
     },
     {
       "company": "Nemera",
@@ -4585,6 +4613,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – approvisionnement matières et matériel R&D vaccin",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois---approvisionnement-matires-premires-et-produits-finis_R2865407",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-09",
+      "posted_at": "2026-10-09",
+      "closes_at": "2026-12-09",
+      "closes_estimated": "2026-12-09",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, aisance relationnelle, autonomie. Connaissances en supply chain, connaissances de SAP ou d’un ERP équivalent, de Power Query, maitrise d’Excel",
+        "Éducation : bac+5 en supply chain, en achat ou en logistique industrielle"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-13e80fd30535"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois bioanalyse",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-bioanalyse_R2872694",
       "location": "Vitry-sur-Seine",
@@ -4685,9 +4743,9 @@
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-10-02",
-      "posted_at": "2026-10-02",
-      "closes_at": "2026-12-02",
-      "closes_estimated": "2026-12-02",
+      "posted_at": "2026-10-09",
+      "closes_at": "2026-12-09",
+      "closes_estimated": "2026-12-09",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
@@ -4697,7 +4755,7 @@
       "duration": "6 months",
       "requirements": [
         "Compétences techniques et relationnelles : curiosité, dynamisme, autonomie. Maîtrise des techniques de chimie organique, intérêt pour l’automatisation et la digitalisation, maîtrise de Microsoft Office",
-        "Éducation : bac+5 en génie chimique"
+        "Éducation : bac+5 en chimie organique"
       ],
       "languages": [
         "English"
@@ -4744,9 +4802,9 @@
       "location": "Gentilly",
       "country": "France",
       "first_seen": "2026-10-08",
-      "posted_at": "2026-10-08",
-      "closes_at": "2027-02-08",
-      "closes_estimated": "2027-02-08",
+      "posted_at": "2026-10-09",
+      "closes_at": "2027-02-09",
+      "closes_estimated": "2027-02-09",
       "closes_confidence": "stated",
       "start_date": "2027-03-01",
       "start_precision": "month",
@@ -5601,14 +5659,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois chimie des procédés",
+      "title": "stage 6 mois développement de procédés",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/Stagiaire-en-Process-Chemistry_R2873676",
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-10-02",
-      "posted_at": "2026-10-02",
-      "closes_at": "2026-12-02",
-      "closes_estimated": "2026-12-02",
+      "posted_at": "2026-10-09",
+      "closes_at": "2026-12-09",
+      "closes_estimated": "2026-12-09",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
@@ -5617,8 +5675,8 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Compétences techniques et relationnelles : curiosité, communication, esprit analytique. Expérience en synthèse organique, en réactions chimiques et en utilisation d’équipements de laboratoire",
-        "Éducation : bac+5 en chimie"
+        "Compétences techniques et relationnelles : curiosité, communication, esprit critique. Expérience en synthèse organique, en réactions chimiques et en utilisation d’équipements de laboratoire",
+        "Éducation : bac+5 en chimie organique"
       ],
       "languages": [
         "English"
@@ -5867,14 +5925,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois caractérisation vaccins à ARNm",
+      "title": "stage 6 mois caractérisation de vaccins à ARNm",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-caractrisation-vaccins--ARNm_R2873394",
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-02",
-      "posted_at": "2026-10-02",
-      "closes_at": "2027-02-02",
-      "closes_estimated": "2027-02-02",
+      "posted_at": "2026-10-09",
+      "closes_at": "2027-02-09",
+      "closes_estimated": "2027-02-09",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
@@ -5883,7 +5941,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac+ 5 en chimie, biochimie, biotechnologies ou école d’ingénieur"
+        "Éducation : bac+ 5 en chimie, biochimie ou école d’ingénieur"
       ],
       "languages": [
         "English"
@@ -6109,6 +6167,35 @@
       "status": "closed",
       "closed_on": "2026-10-07",
       "uid": "sanofi-a6927dbb2f0a"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stagiaire",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stagiaire_R2873165",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-09",
+      "posted_at": "2026-10-09",
+      "closes_at": "2027-01-09",
+      "closes_estimated": "2027-01-09",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : février",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en biochimie ou biotechnologies"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-a6ae7461288a"
     },
     {
       "company": "Sanofi",
@@ -6475,8 +6562,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-09",
       "uid": "sanofi-d4a10964054a"
     },
     {
@@ -6635,6 +6722,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois développement full stack et IA",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-dveloppement-full-stack-et-IA_R2874013",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-09",
+      "posted_at": "2026-10-09",
+      "closes_at": "2027-01-09",
+      "closes_estimated": "2027-01-09",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "S'impliquer dans des sessions de test avec des utilisateurs métiers pour recueillir leurs retours et améliorer l'expérience utilisateur",
+        "Éducation : bac+3/5 en informatique ou digital"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-e36fb17996ee"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois évaluation modèle in vitro",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois---valuation-modle-in-vitro_R2873720",
       "location": "Montpellier",
@@ -6697,6 +6814,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-e5ed55e3b2ce"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois développement IA",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-dveloppement-IA_R2874005",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-09",
+      "posted_at": "2026-10-09",
+      "closes_at": "2027-01-09",
+      "closes_estimated": "2027-01-09",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Contribuer à l'amélioration de l'expérience utilisateur, de la rédaction des besoins jusqu'à la livraison du code",
+        "Éducation : bac+5 en informatique, IA ou science des données"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-e72bd284052e"
     },
     {
       "company": "Sanofi",
@@ -6928,7 +7075,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-10-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -6962,7 +7109,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-08-19",
       "closes_at": "",
-      "closes_estimated": "2026-10-15",
+      "closes_estimated": "2026-10-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
