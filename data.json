@@ -212,8 +212,8 @@
       "languages": [],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-09",
       "uid": "amgen-858ba0117d07"
     },
     {
@@ -1134,6 +1134,38 @@
     },
     {
       "company": "Brainlab",
+      "title": "Working student - clinical Marketing",
+      "url": "https://jobs.smartrecruiters.com/brainlab/744000154681089",
+      "location": "Munich, de",
+      "country": "",
+      "first_seen": "2026-10-09",
+      "posted_at": "2026-10-09",
+      "closes_at": "",
+      "closes_estimated": "2026-11-18",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "12 months",
+      "requirements": [
+        "Enrolled in a degree program in biomedical engineering, medical technology, life sciences, marketing, or a related field",
+        "Excellent written and verbal communication skills in English; German is a plus",
+        "Practical experience: Opportunity to build career experience in an exciting international company with a lasting impact on medical technology based in Munich"
+      ],
+      "languages": [
+        "English",
+        "German"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "brainlab-51db2ee13083"
+    },
+    {
+      "company": "Brainlab",
       "title": "Working Student Digital Learning – R&D Product Support",
       "url": "https://jobs.smartrecruiters.com/brainlab/744000122441969",
       "location": "Munich, de",
@@ -1779,6 +1811,34 @@
       "status": "closed",
       "closed_on": "2026-09-25",
       "uid": "eurofins-c7af2625c359"
+    },
+    {
+      "company": "Eurofins",
+      "title": "Stage - Chef de projets Qualité (H/F) - Nantes (44)",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000154673089",
+      "location": "Nantes, fr",
+      "country": "",
+      "first_seen": "2026-10-09",
+      "posted_at": "2026-10-09",
+      "closes_at": "",
+      "closes_estimated": "2026-11-18",
+      "closes_confidence": "high",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Démarrage : février/mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-c885ea6be252"
     },
     {
       "company": "Eurofins",
@@ -3933,34 +3993,6 @@
       "uid": "lesaffre-4727e1363917"
     },
     {
-      "company": "Nabla",
-      "title": "Machine Learning Internship 2026",
-      "url": "https://jobs.ashbyhq.com/nabla/02ed068a-a3fc-44e1-b449-0e6fcc8a16cf",
-      "location": "Paris office",
-      "country": "",
-      "first_seen": "2026-10-09",
-      "posted_at": "2026-10-08",
-      "closes_at": "",
-      "closes_estimated": "2026-11-12",
-      "closes_confidence": "high",
-      "start_date": "2027-01-01",
-      "start_precision": "year",
-      "start_evidence": "Start Date: 2027",
-      "season": "Off-cycle",
-      "contract": "Internship",
-      "duration": "",
-      "requirements": [
-        "Experience with React, GraphQL, or cloud infrastructure.",
-        "Knowledge of CI/CD, Docker, or automated testing."
-      ],
-      "languages": [],
-      "process": "",
-      "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
-      "uid": "nabla-b3f6a575aa07"
-    },
-    {
       "company": "Nemera",
       "title": "Stagiaire Ingénieur Développement (Dispositifs Ophtalmiques) F/H/X",
       "url": "https://jobs.smartrecruiters.com/nemera/744000151793919",
@@ -5871,18 +5903,18 @@
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-10-07",
-      "posted_at": "2026-10-07",
+      "posted_at": "2026-10-09",
       "closes_at": "2027-01-07",
       "closes_estimated": "2027-01-07",
       "closes_confidence": "stated",
-      "start_date": "2027-03-01",
+      "start_date": "2027-01-01",
       "start_precision": "month",
-      "start_evidence": "A partir de : mars 2027",
+      "start_evidence": "A partir de : janvier à mars 2027",
       "season": "Off-cycle",
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac+5 en chimie, chimie analytique"
+        "Éducation : bac+5 en chimie, chimie analytique, biotechnologie"
       ],
       "languages": [
         "English"
@@ -6170,7 +6202,7 @@
     },
     {
       "company": "Sanofi",
-      "title": "stagiaire",
+      "title": "stage 6 mois – implémentation de nouvelles technologies analytiques",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stagiaire_R2873165",
       "location": "Lyon",
       "country": "France",
