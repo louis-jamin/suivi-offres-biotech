@@ -5457,6 +5457,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 2 mois technicien.ne de laboratoire",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-2-mois-technicienne-de-laboratoire_R2874089",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
+      "closes_confidence": "stated",
+      "start_date": "2027-06-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : juin 2027",
+      "season": "Summer",
+      "contract": "Internship",
+      "duration": "2 months",
+      "requirements": [
+        "Éducation : bac+1 en chimie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-547f9da2dad1"
+    },
+    {
+      "company": "Sanofi",
       "title": "Werkstudent*in Forschung und Entwicklung - Wintersemesterferien 2026/2027",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Frankfurt-am-Main/Werkstudent-in-Forschung-und-Entwicklung---Wintersemesterferien-2026-2027_R2868643",
       "location": "Frankfurt am Main",
@@ -5558,9 +5587,9 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-07",
-      "posted_at": "2026-10-07",
-      "closes_at": "2027-01-07",
-      "closes_estimated": "2027-01-07",
+      "posted_at": "2026-10-12",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
@@ -5577,8 +5606,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-12",
+      "status": "open",
+      "closed_on": "",
       "uid": "sanofi-651f99f5cce3"
     },
     {
