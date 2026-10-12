@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11",
+  "generated_at": "2026-10-12",
   "vocab": {
     "stages": [
       "Not applied",
@@ -879,7 +879,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-18",
+      "closes_estimated": "2026-10-19",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -958,8 +958,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-12",
       "uid": "astrazeneca-acee14714447"
     },
     {
@@ -1091,8 +1091,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-12",
       "uid": "biogen-5e804d6b3297"
     },
     {
@@ -1128,8 +1128,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-12",
       "uid": "biogen-fc1ac11d4c20"
     },
     {
@@ -1173,7 +1173,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-18",
+      "closes_estimated": "2026-10-19",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1262,7 +1262,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-18",
+      "closes_estimated": "2026-10-19",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3384,8 +3384,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-12",
       "uid": "gsk-f5e1f9f7d971"
     },
     {
@@ -3397,7 +3397,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-10",
+      "closes_estimated": "2026-11-11",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3552,7 +3552,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-10",
+      "closes_estimated": "2026-11-11",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3766,6 +3766,38 @@
     },
     {
       "company": "Ipsen",
+      "title": "Stagiaire Pharmacovigilance et Infomed",
+      "url": "https://ipsen.wd103.myworkdayjobs.com/Ipsen_Careers/job/Paris/Stagiaire-Pharmacovigilance-et-Infomed_R-22415-1",
+      "location": "Paris",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "",
+      "closes_estimated": "2026-11-26",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "Etudes de Pharmacie / Médecine : BAC + 5/6",
+        "Compétences techniques clés requises",
+        "Rigueur, capacité à travailler en équipe, sens de l’organisation, curiosité, bon relationnel interne et externe.",
+        "Excellente communication écrite et orale",
+        "Capacités de synthèse et d’analyse",
+        "Agilité outils digitaux/informatique"
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "ipsen-5df1bb377e9a"
+    },
+    {
+      "company": "Ipsen",
       "title": "Stagiaire Affaires Médicales Neurosciences",
       "url": "https://ipsen.wd103.myworkdayjobs.com/Ipsen_Careers/job/Paris/Stagiaire-Affaires-Mdicales-Neurosciences_R-22413",
       "location": "Paris",
@@ -3841,7 +3873,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-18",
+      "closes_estimated": "2026-10-19",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3941,7 +3973,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-18",
+      "closes_estimated": "2026-10-19",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4092,6 +4124,37 @@
     },
     {
       "company": "Roche",
+      "title": "Stagiaire - Formations Bonnes Pratiques Professionnelles (f/h/d/)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Paris/Stagiaire----Formations-Bonnes-Pratiques-Professionnelles--f-h-d--_202609-123621",
+      "location": "Paris",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2026-11-09",
+      "closes_estimated": "2026-11-09",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Préférentiellement des candidats au profil de chef de projets issus des écoles de commerce, de marketing, de communication, de publicité, d’ingénieurs ou cursus scientifique ( Diplôme Bac +4/5 M2)",
+        "Bonne maîtrise des outils informatiques (pack Microsoft Office)",
+        "Tu auras à l’issue de cette expérience une vision de l’ensemble des métiers de l’industrie pharmaceutique et pourrait en apprécier la complémentarité."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-4911d289bb08"
+    },
+    {
+      "company": "Roche",
       "title": "Praktikum (B.Sc. / M.Sc.) innerhalb R&D für Sequencing Projekte, Standort Penzberg (m/w/d)",
       "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Praktikum--BSc---MSc--innerhalb-R-D-fr-Sequencing-Projekte--Standort-Penzberg--m-w-d-_202607-119995-1",
       "location": "Penzberg",
@@ -4117,6 +4180,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "roche-5382a97e0dd2"
+    },
+    {
+      "company": "Roche",
+      "title": "Stagiaire - Stratégie & Offre Parcours / Marketing (m/f/d)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Paris/Stagiaire---Stratgie---Offre-Parcours---Marketing--m-f-d-_202609-124790-1",
+      "location": "Paris",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2026-11-09",
+      "closes_estimated": "2026-11-09",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "En étroite collaboration notamment avec les équipes Médicales, Direction expérience Client, Finance, Compliance, tu contribueras :",
+        "Tu recherches une formation en stage pour ton Bac+5 (M2) , éducation scientifique supérieure et une spécialisation en marketing de la santé."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-620b4df57d55"
     },
     {
       "company": "Roche",
@@ -4173,6 +4266,34 @@
       "status": "open",
       "closed_on": "",
       "uid": "roche-84f903121798"
+    },
+    {
+      "company": "Roche",
+      "title": "Stagiaire Responsable Médical (f/m/d)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Paris/Stagiaire-Responsable-Mdical--f-m-d-_202609-124104-1",
+      "location": "Paris",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2026-11-09",
+      "closes_estimated": "2026-11-09",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "approx",
+      "start_evidence": "début de 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "De formation Médecin, Pharmacien, Doctorant ou BAC+5 scientifique .",
+        "Tu as une bonne maîtrise des outils bureautiques."
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-a74458ab42c7"
     },
     {
       "company": "Roche",
@@ -4309,6 +4430,65 @@
       "status": "closed",
       "closed_on": "2026-09-23",
       "uid": "roche-c6fb2809b656"
+    },
+    {
+      "company": "Roche",
+      "title": "Stage - Relations Sociales (f/m/d)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Paris/Stage---Relations-Sociales--f-m-d-_202610-124961-1",
+      "location": "Paris",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2026-11-09",
+      "closes_estimated": "2026-11-09",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "En formation de niveau Bac+5 dans le domaine du Droit social (Master 2 ou école avocat).",
+        "Tu souhaites acquérir une expérience dans un environnement international."
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-cfcc296e5cfe"
+    },
+    {
+      "company": "Roche",
+      "title": "Stagiaire Affaires Réglementaires (d/f/m)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Paris/Stagiaire-Affaires-Rglementaires--d-f-m-_202609-124282",
+      "location": "Paris",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2026-11-09",
+      "closes_estimated": "2026-11-09",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Etudiant en 5 - 6 e année de Pharmacie, ou en année de césure, ayant pour objectif de poursuivre avec un Master 2 (droit de la santé / affaires réglementaires).",
+        "Maîtrise des outils bureautiques et informatiques",
+        "Maîtrise de l’anglais (B2)"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-fa77ac39421c"
     },
     {
       "company": "Sanofi",
@@ -4458,6 +4638,35 @@
       "status": "closed",
       "closed_on": "2026-09-25",
       "uid": "sanofi-0a4345715e02"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois cyber résilience",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-cyber-rsilience_R2874677",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2027-01-12",
+      "closes_estimated": "2027-01-12",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en qualité, IT ou excellence opérationnelle"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-0abc7db7b0d4"
     },
     {
       "company": "Sanofi",
@@ -5368,8 +5577,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-12",
       "uid": "sanofi-651f99f5cce3"
     },
     {
@@ -5467,14 +5676,45 @@
     },
     {
       "company": "Sanofi",
+      "title": "6 months internship in drug product development and delivery",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/XMLNAME-6-months-internship-in-drug-product-development-and-delivery_R2874281",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2027-01-12",
+      "closes_estimated": "2027-01-12",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Starting date: February 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Soft and technical skills: curiosity, team spirit, rigour. Experience in nanotechnology",
+        "Education: bac+5 in chemical, chemical engineering, biotechnology",
+        "Languages: fluent in english"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-714ff31883cd"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois pilotage formation compliance supply chain clinique",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-pilotage-formation-compliance-supply-chain-clinique_R2873891",
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-10-07",
-      "posted_at": "2026-10-07",
-      "closes_at": "2027-01-07",
-      "closes_estimated": "2027-01-07",
+      "posted_at": "2026-10-12",
+      "closes_at": "2027-01-12",
+      "closes_estimated": "2027-01-12",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5483,7 +5723,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Compétences techniques et relationnelles : aisance relationnelle, esprit de synthèse, autonomie. Connaissances en Power BI, outils de data visualisation et environnements réglementés. Maîtrise du pack Office",
+        "Compétences techniques et relationnelles : aisance relationnelle, esprit de synthèse, autonomie. Connaissances en Power BI, outils de data visualisation et environnements réglementés, maîtrise du Pack Office, expérience en recherche clinique",
         "Éducation : bac+5 en pharmacie, sciences de la vie ou ingénierie industrielle"
       ],
       "languages": [
@@ -5816,9 +6056,9 @@
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-10-07",
-      "posted_at": "2026-10-07",
-      "closes_at": "2027-01-07",
-      "closes_estimated": "2027-01-07",
+      "posted_at": "2026-10-12",
+      "closes_at": "2027-01-12",
+      "closes_estimated": "2027-01-12",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5827,7 +6067,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Compétences techniques et relationnelles : esprit de synthèse, esprit d’équipe, rigueur. Connaissances en outils de cartographie de processus, gestion de projet et environnement réglementé. Maîtrise du pack Office",
+        "Compétences techniques et relationnelles : esprit de synthèse, esprit d’équipe, rigueur. Connaissances en outils de cartographie de processus, gestion de projet et environnement réglementé, maîtrise du pack Office, expérience en recherche clinique",
         "Éducation : bac+5 en pharmacie, sciences de la vie, ingénierie industrielle"
       ],
       "languages": [
@@ -6484,6 +6724,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "Biologics Operations Specialist Intern",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Biologics-Operations-Specialist-Intern_R2874237",
+      "location": "2 Locations",
+      "country": "Ireland",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2026-11-02",
+      "closes_estimated": "2026-11-02",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "Start date: January 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6-8 months",
+      "requirements": [
+        "To be currently pursuing a degree in Biotechnology, Engineering, Pharmaceutical Science, Life Sciences, or a related discipline.",
+        "Good written and verbal communication skills in English."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "Final / on-site",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-c5bbfdf42661"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois - supply chain et optimisation de processus",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-supply-chain-et-optimisation-de-processus_R2871977",
       "location": "Marcy-l'Etoile",
@@ -6543,6 +6813,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – modélisation procédés de chromatographie",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois---modlisation-procds-de-chromatographie_R2873952",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-12",
+      "posted_at": "2026-10-12",
+      "closes_at": "2027-01-12",
+      "closes_estimated": "2027-01-12",
+      "closes_confidence": "stated",
+      "start_date": "2027-03-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en génie des procédés"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-cb64bfdb786a"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 5 mois analyse de dissolution",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-5-mois-analyse-de-dissolution_R2874016",
       "location": "Montpellier",
@@ -6595,8 +6894,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-12",
       "uid": "sanofi-d2f3ea500728"
     },
     {
@@ -6784,14 +7083,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois développement full stack et IA",
+      "title": "stage 6 mois prototypage IA",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-dveloppement-full-stack-et-IA_R2874013",
       "location": "Lyon",
       "country": "France",
       "first_seen": "2026-10-09",
-      "posted_at": "2026-10-09",
-      "closes_at": "2027-01-09",
-      "closes_estimated": "2027-01-09",
+      "posted_at": "2026-10-12",
+      "closes_at": "2027-01-12",
+      "closes_estimated": "2027-01-12",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
@@ -6801,7 +7100,7 @@
       "duration": "6 months",
       "requirements": [
         "S'impliquer dans des sessions de test avec des utilisateurs métiers pour recueillir leurs retours et améliorer l'expérience utilisateur",
-        "Éducation : bac+3/5 en informatique ou digital"
+        "Éducation : bac+5 en informatique ou digital"
       ],
       "languages": [
         "English"
@@ -7137,7 +7436,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-18",
+      "closes_estimated": "2026-10-19",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -7171,7 +7470,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-08-19",
       "closes_at": "",
-      "closes_estimated": "2026-10-18",
+      "closes_estimated": "2026-10-19",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
