@@ -1166,6 +1166,37 @@
     },
     {
       "company": "Brainlab",
+      "title": "Working Student Regulatory Affairs - Product Registrations",
+      "url": "https://jobs.smartrecruiters.com/brainlab/744000155179509",
+      "location": "Munich, de",
+      "country": "",
+      "first_seen": "2026-10-13",
+      "posted_at": "2026-10-13",
+      "closes_at": "",
+      "closes_estimated": "2026-11-22",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "Computer proficiency is a must; a high working knowledge of MS Office is expected.",
+        "Practical experience: Opportunity to build career experience in an exciting international company with a lasting impact on medical technology based in Munich"
+      ],
+      "languages": [
+        "English",
+        "German"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "brainlab-784107e7b170"
+    },
+    {
+      "company": "Brainlab",
       "title": "Working Student Digital Learning – R&D Product Support",
       "url": "https://jobs.smartrecruiters.com/brainlab/744000122441969",
       "location": "Munich, de",
@@ -1198,6 +1229,38 @@
     },
     {
       "company": "Brainlab",
+      "title": "Working student - Clinical Marketing",
+      "url": "https://jobs.smartrecruiters.com/brainlab/744000155179549",
+      "location": "Munich, de",
+      "country": "",
+      "first_seen": "2026-10-13",
+      "posted_at": "2026-10-13",
+      "closes_at": "",
+      "closes_estimated": "2026-11-22",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "12 months",
+      "requirements": [
+        "Enrolled in a degree program in biomedical engineering, medical technology, life sciences, marketing, or a related field",
+        "Excellent written and verbal communication skills in English; German is a plus",
+        "Practical experience: Opportunity to build career experience in an exciting international company with a lasting impact on medical technology based in Munich"
+      ],
+      "languages": [
+        "English",
+        "German"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "brainlab-97e5d3f2864b"
+    },
+    {
+      "company": "Brainlab",
       "title": "Working Student Mixed Reality Developer (Godot/C#)",
       "url": "https://jobs.smartrecruiters.com/brainlab/744000151298379",
       "location": "Munich, de",
@@ -1222,8 +1285,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-13",
       "uid": "brainlab-a26115b0c773"
     },
     {
