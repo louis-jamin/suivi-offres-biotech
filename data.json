@@ -3555,8 +3555,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-ed21c5c7e942"
     },
     {
@@ -5687,8 +5687,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "sanofi-547f9da2dad1"
     },
     {
@@ -6291,7 +6291,7 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-06",
-      "posted_at": "2026-10-06",
+      "posted_at": "2026-10-14",
       "closes_at": "2026-12-31",
       "closes_estimated": "2026-12-31",
       "closes_confidence": "stated",
@@ -6302,11 +6302,9 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac+5 en biologie, biobanques, pharmacie"
+        "Éducation : bac+5 en biobanques"
       ],
-      "languages": [
-        "English"
-      ],
+      "languages": [],
       "process": "",
       "process_rounds": null,
       "status": "open",
@@ -6770,9 +6768,9 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-13",
-      "posted_at": "2026-10-13",
-      "closes_at": "2027-02-13",
-      "closes_estimated": "2027-02-13",
+      "posted_at": "2026-10-14",
+      "closes_at": "2027-02-14",
+      "closes_estimated": "2027-02-14",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -6994,7 +6992,7 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-13",
-      "posted_at": "2026-10-13",
+      "posted_at": "2026-10-14",
       "closes_at": "2026-12-31",
       "closes_estimated": "2026-12-31",
       "closes_confidence": "stated",
@@ -7006,11 +7004,9 @@
       "duration": "6 months",
       "requirements": [
         "Compétences techniques et relationnelles : capacité d’adaptation, force de proposition, esprit d’analyse. Connaissances en bio procédés, amélioration continue. Maîtrise des outils informatique",
-        "Éducation : bac+5 en biologie, pharmacie"
+        "Éducation : bac+5 en biologie, pharmacie, amélioration continue"
       ],
-      "languages": [
-        "English"
-      ],
+      "languages": [],
       "process": "",
       "process_rounds": null,
       "status": "open",
@@ -7112,18 +7108,18 @@
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-10-06",
-      "posted_at": "2026-10-06",
-      "closes_at": "2027-01-14",
-      "closes_estimated": "2027-01-14",
+      "posted_at": "2026-10-14",
+      "closes_at": "2027-01-22",
+      "closes_estimated": "2027-01-22",
       "closes_confidence": "stated",
       "start_date": "2027-04-01",
       "start_precision": "month",
       "start_evidence": "A partir de : avril 2027",
       "season": "Off-cycle",
       "contract": "Internship",
-      "duration": "5 months",
+      "duration": "2 months",
       "requirements": [
-        "Éducation : bac+2 en chimie analytique, biologie ou biochimie"
+        "Éducation : bac+2 /3 en chimie analytique"
       ],
       "languages": [
         "English"
@@ -7781,6 +7777,43 @@
       "status": "closed",
       "closed_on": "2026-09-22",
       "uid": "viatris-f76c09ac6092"
+    },
+    {
+      "company": "Viatris",
+      "title": "IT Business Analyst - Internship 6 months",
+      "url": "https://viatris.wd5.myworkdayjobs.com/External/job/Milan-Office/IT-Business-Analyst---Internship-6-months_R5674668",
+      "location": "France Remote Office; Milan-Office",
+      "country": "Italy",
+      "first_seen": "2026-10-14",
+      "posted_at": "2026-10-14",
+      "closes_at": "",
+      "closes_estimated": "2026-11-28",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "For this role, we’re looking for a candidate who has an effective combination of the following qualifications, skills and experiences:",
+        "Master’s degree in Information Technology, Data Science, Applied Mathematics, Management Engineering, Computer Science, or Statistics.",
+        "Proficiency in speaking, comprehending, reading and writing in both Italian and English is required.",
+        "Preferably possess the following skills: curiosity, proactivity, collaborative and business oriented approach, eagerness to learn in a dynamic and fast-paced environment, project management mindset",
+        "At Viatris, we are dedicated to building a truly diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t fully align with every requirement, we still encourage you to apply. You may just be the right candidate for this or other roles.",
+        "Diversity & Inclusion at Viatris",
+        "Sustainability at Viatris",
+        "A t Viatris, we offer competitive salar ies , benefits and an inclusive environment where you can use your experiences, perspectives and skills to help make an impact on the lives of others."
+      ],
+      "languages": [
+        "English",
+        "Italian"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "viatris-f81961e5f008"
     }
   ]
 }
