@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-14",
   "vocab": {
     "stages": [
       "Not applied",
@@ -879,7 +879,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-20",
+      "closes_estimated": "2026-10-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1204,7 +1204,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-20",
+      "closes_estimated": "2026-10-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1325,7 +1325,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-20",
+      "closes_estimated": "2026-10-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1512,6 +1512,42 @@
     },
     {
       "company": "Eurofins",
+      "title": "Ingénieur.e en amélioration continue en stage",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000155463709",
+      "location": "Rennes, fr",
+      "country": "",
+      "first_seen": "2026-10-14",
+      "posted_at": "2026-10-14",
+      "closes_at": "",
+      "closes_estimated": "2026-11-23",
+      "closes_confidence": "high",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "à partir du mois de février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "4-6 months",
+      "requirements": [
+        "Polyvalent.e et « touche à tout », vous aimez passer d’un sujet à un autre.",
+        "Idéalement, vous avez une appétence pour les sujets techniques (maintenance de premier niveau, travaux manuels, bricolage…).",
+        "Maîtrise de l'anglais indispensable pour les échanges avec des interlocuteurs internationaux.",
+        "Nous vous proposons :",
+        "Un stage de 4 à 6 mois à partir de février 2027, basé à Bruz (à proximité directe de Rennes)",
+        "Gratification selon bases légales et conventionnelles",
+        "Tickets restaurant",
+        "Prise en charge à 50% de votre titre de transport en commun"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "1 round (unspecified)",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-3e933e6f8eb5"
+    },
+    {
+      "company": "Eurofins",
       "title": "Stage - Ingénieur.e Projets Data/BI",
       "url": "https://jobs.smartrecruiters.com/Eurofins/744000146980498",
       "location": "Paris, fr",
@@ -1543,6 +1579,42 @@
       "status": "closed",
       "closed_on": "2026-09-21",
       "uid": "eurofins-57bfc91edb56"
+    },
+    {
+      "company": "Eurofins",
+      "title": "Ingénieur.e Amélioration Continue en stage",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000155464508",
+      "location": "Nantes, fr",
+      "country": "",
+      "first_seen": "2026-10-14",
+      "posted_at": "2026-10-14",
+      "closes_at": "",
+      "closes_estimated": "2026-11-23",
+      "closes_confidence": "high",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "à partir de janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "4-6 months",
+      "requirements": [
+        "Polyvalent.e et « touche à tout », vous aimez passer d’un sujet à un autre.",
+        "Idéalement, vous avez une appétence pour les sujets techniques (maintenance de premier niveau, travaux manuels, bricolage…).",
+        "Maîtrise de l'anglais indispensable pour les échanges avec des interlocuteurs internationaux.",
+        "Nous vous proposons :",
+        "Un stage de 4 à 6 mois à partir de janvier 2027, basé à Nantes",
+        "Gratification selon bases légales et conventionnelles",
+        "Tickets restaurant",
+        "Prise en charge à 50% de votre titre de transport en commun"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "1 round (unspecified)",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-5cc670c55e10"
     },
     {
       "company": "Eurofins",
@@ -2405,8 +2477,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-3decee24f26e"
     },
     {
@@ -2441,8 +2513,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-3dfba7e8672f"
     },
     {
@@ -2477,8 +2549,8 @@
       ],
       "process": "HR screen → Final / on-site",
       "process_rounds": 2,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-3ed22fc91d5e"
     },
     {
@@ -2549,8 +2621,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-506f8e33d08a"
     },
     {
@@ -2585,8 +2657,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-6176ae019f05"
     },
     {
@@ -2658,8 +2730,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-68db10d92c38"
     },
     {
@@ -3052,8 +3124,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-9a5d5105cc5e"
     },
     {
@@ -3088,8 +3160,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-a16c3f809b35"
     },
     {
@@ -3447,8 +3519,8 @@
       ],
       "process": "HR screen → Final / on-site",
       "process_rounds": 2,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "gsk-e8e1d54889dd"
     },
     {
@@ -3532,7 +3604,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3687,7 +3759,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4008,7 +4080,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-20",
+      "closes_estimated": "2026-10-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4108,7 +4180,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-20",
+      "closes_estimated": "2026-10-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4253,8 +4325,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "roche-14f90127ae6c"
     },
     {
@@ -4776,14 +4848,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois cyber résilience",
+      "title": "stage 6 mois business continuity plan",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-cyber-rsilience_R2874677",
       "location": "Lyon",
       "country": "France",
       "first_seen": "2026-10-12",
-      "posted_at": "2026-10-13",
-      "closes_at": "2027-02-13",
-      "closes_estimated": "2027-02-13",
+      "posted_at": "2026-10-14",
+      "closes_at": "2027-02-14",
+      "closes_estimated": "2027-02-14",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5257,8 +5329,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "sanofi-27279c7edc40"
     },
     {
@@ -5996,8 +6068,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-14",
       "uid": "sanofi-7e5c401092f0"
     },
     {
@@ -6887,12 +6959,12 @@
     },
     {
       "company": "Sanofi",
-      "title": "Biologics Operations Specialist Intern",
+      "title": "Biologics Operations Intern",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Biologics-Operations-Specialist-Intern_R2874237",
       "location": "2 Locations",
       "country": "Ireland",
       "first_seen": "2026-10-12",
-      "posted_at": "2026-10-12",
+      "posted_at": "2026-10-14",
       "closes_at": "2026-11-02",
       "closes_estimated": "2026-11-02",
       "closes_confidence": "stated",
@@ -7629,7 +7701,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-20",
+      "closes_estimated": "2026-10-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -7663,7 +7735,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-08-19",
       "closes_at": "",
-      "closes_estimated": "2026-10-20",
+      "closes_estimated": "2026-10-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
