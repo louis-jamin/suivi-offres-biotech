@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14",
+  "generated_at": "2026-10-15",
   "vocab": {
     "stages": [
       "Not applied",
@@ -879,7 +879,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-21",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1204,7 +1204,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-21",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1325,7 +1325,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-21",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1761,8 +1761,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-15",
       "uid": "eurofins-78cb07af4207"
     },
     {
@@ -2063,6 +2063,31 @@
       "status": "closed",
       "closed_on": "2026-10-06",
       "uid": "eurofins-e831fc7dea32"
+    },
+    {
+      "company": "Eurofins",
+      "title": "Analista Chimico Junior - Medical Devices Lab",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000155723724",
+      "location": "Milan, it",
+      "country": "",
+      "first_seen": "2026-10-15",
+      "posted_at": "2026-10-15",
+      "closes_at": "",
+      "closes_estimated": "2026-11-24",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-f0caea645a48"
     },
     {
       "company": "Eurofins",
@@ -2452,9 +2477,9 @@
       "location": "UK - West Sussex - Worthing",
       "country": "United Kingdom",
       "first_seen": "2026-09-22",
-      "posted_at": "2026-09-22",
-      "closes_at": "2026-10-13",
-      "closes_estimated": "2026-10-13",
+      "posted_at": "2026-10-15",
+      "closes_at": "2026-10-22",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "year",
@@ -2477,8 +2502,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "closed",
-      "closed_on": "2026-10-14",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-3decee24f26e"
     },
     {
@@ -2488,9 +2513,9 @@
       "location": "UK – London – New Oxford Street",
       "country": "United Kingdom",
       "first_seen": "2026-09-22",
-      "posted_at": "2026-09-22",
-      "closes_at": "2026-10-13",
-      "closes_estimated": "2026-10-13",
+      "posted_at": "2026-10-15",
+      "closes_at": "2026-10-22",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "year",
@@ -2506,15 +2531,15 @@
         "Language requirement: Written and spoken fluency in English",
         "Expected Start date : July 2027",
         "Duration : 1 year (approximately)",
-        "Salary : A salary of £ 2 6 ,400 plus a bonus."
+        "Salary : A salary of £26,400 plus a bonus."
       ],
       "languages": [
         "English"
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "closed",
-      "closed_on": "2026-10-14",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-3dfba7e8672f"
     },
     {
@@ -2596,9 +2621,9 @@
       "location": "UK – London – New Oxford Street",
       "country": "United Kingdom",
       "first_seen": "2026-09-22",
-      "posted_at": "2026-09-22",
-      "closes_at": "2026-10-13",
-      "closes_estimated": "2026-10-13",
+      "posted_at": "2026-10-15",
+      "closes_at": "2026-10-22",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "year",
@@ -2621,8 +2646,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "closed",
-      "closed_on": "2026-10-14",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-506f8e33d08a"
     },
     {
@@ -2705,9 +2730,9 @@
       "location": "UK – London – New Oxford Street",
       "country": "United Kingdom",
       "first_seen": "2026-09-22",
-      "posted_at": "2026-09-22",
-      "closes_at": "2026-10-13",
-      "closes_estimated": "2026-10-13",
+      "posted_at": "2026-10-15",
+      "closes_at": "2026-10-22",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "year",
@@ -2730,8 +2755,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-14",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-68db10d92c38"
     },
     {
@@ -3088,8 +3113,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-15",
       "uid": "gsk-99a26147305b"
     },
     {
@@ -3196,8 +3221,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-15",
       "uid": "gsk-a4bf52a1ee69"
     },
     {
@@ -3604,7 +3629,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
+      "closes_estimated": "2026-11-14",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3759,7 +3784,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
+      "closes_estimated": "2026-11-14",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4080,7 +4105,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-21",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4180,7 +4205,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-21",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5008,9 +5033,9 @@
       "location": "Gentilly",
       "country": "France",
       "first_seen": "2026-10-07",
-      "posted_at": "2026-10-07",
-      "closes_at": "2027-01-07",
-      "closes_estimated": "2027-01-07",
+      "posted_at": "2026-10-15",
+      "closes_at": "2027-01-15",
+      "closes_estimated": "2027-01-15",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5019,7 +5044,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac +5 en sciences de la vie, chimie ou pharmacie"
+        "Éducation : bac +5 en sciences de la vie ou pharmacie"
       ],
       "languages": [
         "English"
@@ -6704,6 +6729,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois fonds investissement impact santé",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois-fonds-investissement-impact-sant_R2874971",
+      "location": "Gentilly",
+      "country": "France",
+      "first_seen": "2026-10-15",
+      "posted_at": "2026-10-15",
+      "closes_at": "2027-02-15",
+      "closes_estimated": "2027-02-15",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+ 5 en commerce ou finance"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-a8d9bf486117"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois amélioration continue et digitalisation qualité",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois--support-projet-qualit_R2873996",
       "location": "Marcy-l'Etoile",
@@ -6954,36 +7008,6 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-c55d71bbc1f6"
-    },
-    {
-      "company": "Sanofi",
-      "title": "Biologics Operations Intern",
-      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Waterford/Biologics-Operations-Specialist-Intern_R2874237",
-      "location": "2 Locations",
-      "country": "Ireland",
-      "first_seen": "2026-10-12",
-      "posted_at": "2026-10-14",
-      "closes_at": "2026-11-02",
-      "closes_estimated": "2026-11-02",
-      "closes_confidence": "stated",
-      "start_date": "2027-01-01",
-      "start_precision": "month",
-      "start_evidence": "Start date: January 2027",
-      "season": "Off-cycle",
-      "contract": "Internship",
-      "duration": "6-8 months",
-      "requirements": [
-        "To be currently pursuing a degree in Biotechnology, Engineering, Pharmaceutical Science, Life Sciences, or a related discipline.",
-        "Good written and verbal communication skills in English."
-      ],
-      "languages": [
-        "English"
-      ],
-      "process": "Final / on-site",
-      "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
-      "uid": "sanofi-c5bbfdf42661"
     },
     {
       "company": "Sanofi",
@@ -7697,7 +7721,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-21",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -7731,7 +7755,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-08-19",
       "closes_at": "",
-      "closes_estimated": "2026-10-21",
+      "closes_estimated": "2026-10-22",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
