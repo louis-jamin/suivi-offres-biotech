@@ -285,6 +285,38 @@
     },
     {
       "company": "AstraZeneca",
+      "title": "AI & Data Science Internship Program – AstraZeneca Barcelona",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Spain---Barcelona/AI---Data-Science-Internship-Program---AstraZeneca-Barcelona_R-261531",
+      "location": "Spain - Barcelona",
+      "country": "Spain",
+      "first_seen": "2026-10-16",
+      "posted_at": "2026-10-16",
+      "closes_at": "2026-10-29",
+      "closes_estimated": "2026-10-29",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6-12 months",
+      "requirements": [
+        "Currently pursuing a Master’s degree in Computer Science, Data Science, Bioinformatics, or a related field.",
+        "Academic background in Computer Science, Data Science, Statistics, Mathematics, Engineering, or similar disciplines.",
+        "Strong interest in artificial intelligence, machine learning, data science, and biopharmaceutical research.",
+        "Proactive and eager to learn.",
+        "AstraZeneca is an Equal Opportunity Employer:",
+        "Closing Date"
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "astrazeneca-0432880c4b19"
+    },
+    {
+      "company": "AstraZeneca",
       "title": "12 Month University Industrial Placement Student: Digital & Data Improvement Specialist",
       "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/UK---Macclesfield/XMLNAME-12-Month-University-Industrial-Placement-Student--Digital---Data-Improvement-Specialist_R-259280",
       "location": "UK - Macclesfield",
@@ -4234,8 +4266,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-16",
       "uid": "ipsen-d54c349aeb46"
     },
     {
@@ -5975,8 +6007,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-16",
       "uid": "sanofi-673cd76b9e07"
     },
     {
@@ -6265,6 +6297,35 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-7faa890cd766"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois pharmacovigilance",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois-pharmacovigilance_R2873973",
+      "location": "Gentilly",
+      "country": "France",
+      "first_seen": "2026-10-16",
+      "posted_at": "2026-10-16",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
+      "closes_confidence": "stated",
+      "start_date": "2027-03-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en pharmacie, pharmacovigilance"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-7fbdf74c64ba"
     },
     {
       "company": "Sanofi",
@@ -6872,9 +6933,9 @@
       "location": "Gentilly",
       "country": "France",
       "first_seen": "2026-10-15",
-      "posted_at": "2026-10-15",
-      "closes_at": "2027-02-15",
-      "closes_estimated": "2027-02-15",
+      "posted_at": "2026-10-16",
+      "closes_at": "2027-02-16",
+      "closes_estimated": "2027-02-16",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -6883,6 +6944,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
+        "Compétences techniques et relationnelles : rigueur, esprit d’analyse, autonomie. Expérience en analyse financière et en conseil en stratégie. Maîtrise d’Excel.",
         "Éducation : bac+ 5 en commerce ou finance"
       ],
       "languages": [
@@ -7012,6 +7074,43 @@
       "status": "closed",
       "closed_on": "2026-09-22",
       "uid": "sanofi-afbfb402a5ea"
+    },
+    {
+      "company": "Sanofi",
+      "title": "AI Portfolio Operations Analyst - VIE Contract",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Barcelona/AI-Portfolio-Operations-Analyst---VIE-Contract_R2872151",
+      "location": "Barcelona",
+      "country": "Spain",
+      "first_seen": "2026-10-16",
+      "posted_at": "2026-10-16",
+      "closes_at": "2027-02-16",
+      "closes_estimated": "2027-02-16",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "day",
+      "start_evidence": "Target start date: 01/02/2027",
+      "season": "Graduate",
+      "contract": "VIE",
+      "duration": "",
+      "requirements": [
+        "Clear written and verbal communication; ability to present to stakeholders.",
+        "Detail-oriented — typos and missing data matter.",
+        "Juggle multiple tasks — manage deadlines across different reports.",
+        "Stay organized — clear file naming, documentation, follow-up systems.",
+        "Advanced analytical skills (spot inconsistencies in data, understand trends, ask good questions when something seems off etc.)",
+        "Excel expert — pivot tables, formulas, data cleanup, basic charts.",
+        "PowerPoint & SharePoint — creating simple presentations, organizing files.",
+        "Dashboard/reporting tools — Power BI, Tableau, or similar (you'll learn on the job)."
+      ],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-b1b58c0bb732"
     },
     {
       "company": "Sanofi",
@@ -7172,8 +7271,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-16",
       "uid": "sanofi-c55d71bbc1f6"
     },
     {
@@ -7508,6 +7607,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois immuno oncologie",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/Stagiaire-en-Immuno-Oncologie--H-F-_R2872260",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-16",
+      "posted_at": "2026-10-16",
+      "closes_at": "2027-01-16",
+      "closes_estimated": "2027-01-16",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : autonomie, rigueur, bon sens relationnel. Connaissances de logiciels d'analyse de données, des BPL, expériences en laboratoire de recherche, maîtrise de la cytométrie en flux et du marquage immunofluorescent",
+        "Éducation : bac+5 en biologie, biotechnologie, immunologie ou cancérologie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-e04a5e4f356f"
+    },
+    {
+      "company": "Sanofi",
       "title": "Praktikum und Anfertigung der Master Thesis im Bereich QC Equipment",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Frankfurt-am-Main/Praktikum-und-Anfertigung-der-Master-Thesis-im-Bereich-QC-Equipment_R2870526",
       "location": "Frankfurt am Main",
@@ -7562,6 +7691,35 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-e36fb17996ee"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois – support amélioration continue",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois---support-amlioration-continue_R2875069",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-16",
+      "posted_at": "2026-10-16",
+      "closes_at": "2027-01-16",
+      "closes_estimated": "2027-01-16",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : février",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en bioproduction, génie industriel, génie des procédés ou ingénierie généraliste"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-e38c1a447312"
     },
     {
       "company": "Sanofi",
