@@ -4523,6 +4523,41 @@
     },
     {
       "company": "Roche",
+      "title": "Internship: Digital & OE Support for Performance Excellence Delivery (6 Months)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Internship--Digital---OE-Support-for-Performance-Excellence-Delivery--6-Months-_202610-126546",
+      "location": "Basel",
+      "country": "Switzerland",
+      "first_seen": "2026-10-19",
+      "posted_at": "2026-10-19",
+      "closes_at": "",
+      "closes_estimated": "2026-12-03",
+      "closes_confidence": "high",
+      "start_date": "2027-02-01",
+      "start_precision": "day",
+      "start_evidence": "starting date 1st of February 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Academic Background: Currently enrolled in or a recent graduate of a Bachelor's or Master's program in Data/Computer Science, Engineering, Biotechnology, Life Sciences, or a related field.",
+        "Interest in Operational Excellence: Passionate about learning Lean principles, process mapping, and operational problem-solving within the pharmaceutical industry.",
+        "Hands-On & Pragmatic Approach: Comfortable engaging with stakeholders across functions (from shop floor operators to IT specialists) and translating business pain points into actionable digital ideas.",
+        "Communication & Collaboration: Exceptional communication skills with the ability to build alignment and serve as an effective bridge between operational business teams and IT/digital functions.",
+        "Languages: Fluent in English (German proficiency is an advantage).",
+        "WIllingness to travel in DACH region"
+      ],
+      "languages": [
+        "English",
+        "German"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-56312ec38af6"
+    },
+    {
+      "company": "Roche",
       "title": "Stagiaire - Stratégie & Offre Parcours / Marketing (m/f/d)",
       "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Paris/Stagiaire---Stratgie---Offre-Parcours---Marketing--m-f-d-_202609-124790-1",
       "location": "Paris",
@@ -4835,6 +4870,41 @@
     },
     {
       "company": "Roche",
+      "title": "Project Support Intern - Roche Global Citizenship (d/f/m)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Project-Support-Intern---Roche-Global-Citizenship--d-f-m-_202610-125779",
+      "location": "Basel",
+      "country": "Switzerland",
+      "first_seen": "2026-10-19",
+      "posted_at": "2026-10-19",
+      "closes_at": "2026-11-03",
+      "closes_estimated": "2026-11-03",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Preferred start date for the internship is February 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "12 months",
+      "requirements": [
+        "Serve as the primary contact and ambassador for Roche Continents students, fostering strong relationships, promoting inclusivity, and ensuring an exceptional experience across all digital and in-person touchpoints.",
+        "Current enrollment in or recent graduation (within the last 12 months) from a Master’s program in Communications, Sustainability, Social Impact, Business Administration, Computer Science, or related field.",
+        "Experience with digital platforms and tools is essential.",
+        "Preferably experience in project or event management.",
+        "This is a 12-month internship that also offers the opportunity to write your Master's thesis."
+      ],
+      "languages": [
+        "English",
+        "French",
+        "German"
+      ],
+      "process": "Final / on-site",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-e33714f1b37b"
+    },
+    {
+      "company": "Roche",
       "title": "Stagiaire Affaires Réglementaires (d/f/m)",
       "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Paris/Stagiaire-Affaires-Rglementaires--d-f-m-_202609-124282",
       "location": "Paris",
@@ -4871,9 +4941,9 @@
       "location": "Vitry-sur-Seine",
       "country": "France",
       "first_seen": "2026-10-08",
-      "posted_at": "2026-10-08",
-      "closes_at": "2027-01-08",
-      "closes_estimated": "2027-01-08",
+      "posted_at": "2026-10-19",
+      "closes_at": "2027-02-19",
+      "closes_estimated": "2027-02-19",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -4882,7 +4952,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac+3/5 en ingénierie ou pharmacie"
+        "Éducation : bac+5 en ingénierie ou pharmacie"
       ],
       "languages": [
         "English"
@@ -5236,9 +5306,9 @@
       "location": "Vitry-sur-Seine",
       "country": "France",
       "first_seen": "2026-10-08",
-      "posted_at": "2026-10-08",
-      "closes_at": "2027-01-08",
-      "closes_estimated": "2027-01-08",
+      "posted_at": "2026-10-19",
+      "closes_at": "2027-02-19",
+      "closes_estimated": "2027-02-19",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5247,7 +5317,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac+3/5 en ingénierie ou pharmacie"
+        "Éducation : bac+5 en ingénierie ou pharmacie"
       ],
       "languages": [
         "English"
@@ -5265,9 +5335,9 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-09",
-      "posted_at": "2026-10-09",
-      "closes_at": "2026-12-09",
-      "closes_estimated": "2026-12-09",
+      "posted_at": "2026-10-19",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5284,8 +5354,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "sanofi-13e80fd30535"
     },
     {
@@ -6357,8 +6427,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-19",
       "uid": "sanofi-7fbdf74c64ba"
     },
     {
@@ -7313,8 +7383,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-19",
       "uid": "sanofi-bc1d32f861ae"
     },
     {
@@ -7494,14 +7564,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 5 mois analyse de dissolution",
+      "title": "stage 2 mois analyse de dissolution",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-5-mois-analyse-de-dissolution_R2874016",
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-10-06",
-      "posted_at": "2026-10-14",
-      "closes_at": "2027-01-22",
-      "closes_estimated": "2027-01-22",
+      "posted_at": "2026-10-19",
+      "closes_at": "2026-12-17",
+      "closes_estimated": "2026-12-17",
       "closes_confidence": "stated",
       "start_date": "2027-04-01",
       "start_precision": "month",
