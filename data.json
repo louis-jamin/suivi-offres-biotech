@@ -4772,8 +4772,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-20",
       "uid": "roche-a74458ab42c7"
     },
     {
@@ -6677,8 +6677,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-20",
       "uid": "sanofi-8e374f31d229"
     },
     {
@@ -7542,8 +7542,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-20",
       "uid": "sanofi-c65219a05bc3"
     },
     {
@@ -8321,10 +8321,10 @@
       "location": "Bad Homburg, Hesse, Germany",
       "country": "Germany",
       "first_seen": "2026-09-18",
-      "posted_at": "2026-08-19",
+      "posted_at": "2026-10-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-27",
-      "closes_confidence": "low",
+      "closes_estimated": "2026-12-04",
+      "closes_confidence": "high",
       "start_date": "",
       "start_precision": "",
       "start_evidence": "",
