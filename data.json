@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21",
+  "generated_at": "2026-10-22",
   "vocab": {
     "stages": [
       "Not applied",
@@ -944,7 +944,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-10-28",
+      "closes_estimated": "2026-10-29",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1269,7 +1269,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-10-28",
+      "closes_estimated": "2026-10-29",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1417,7 +1417,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-10-28",
+      "closes_estimated": "2026-10-29",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1664,8 +1664,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-22",
       "uid": "eurofins-483274d2f5bd"
     },
     {
@@ -2039,6 +2039,36 @@
       "status": "closed",
       "closed_on": "2026-09-24",
       "uid": "eurofins-c01771c4e029"
+    },
+    {
+      "company": "Eurofins",
+      "title": "Stage - Ingénieur R&D Contaminants (H/F) - Nantes (44)",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000157073422",
+      "location": "Nantes, fr",
+      "country": "",
+      "first_seen": "2026-10-22",
+      "posted_at": "2026-10-22",
+      "closes_at": "",
+      "closes_estimated": "2026-12-01",
+      "closes_confidence": "high",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Démarrage : février/mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Réaliser des plans d’expérience et les appliquer ;",
+        "Formation : Issu(e) d’une formation d’ingénieur chimiste / master chimie analytique."
+      ],
+      "languages": [
+        "French"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-c76c9fd8f06d"
     },
     {
       "company": "Eurofins",
@@ -3751,7 +3781,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-20",
+      "closes_estimated": "2026-11-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3888,7 +3918,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-20",
+      "closes_estimated": "2026-11-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4134,6 +4164,40 @@
     },
     {
       "company": "Ipsen",
+      "title": "Trainee, Asset Operations, Project Management (PM) Academy",
+      "url": "https://ipsen.wd103.myworkdayjobs.com/Ipsen_Careers/job/Paris/Trainee--Asset-Operations--Project-Management--PM--Academy_R-22700-1",
+      "location": "Paris",
+      "country": "France",
+      "first_seen": "2026-10-22",
+      "posted_at": "2026-10-22",
+      "closes_at": "",
+      "closes_estimated": "2026-12-06",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "Contribute to improving user experience, navigation and accessibility of project management resources.",
+        "Knowledge & Experience (essential):",
+        "Good knowledge of SharePoint and collaborative digital environments.",
+        "Knowledge & Experience (preferred):",
+        "Previous experience involving project coordination, process documentation, knowledge management or digital collaboration tools is a plus.",
+        "Bachelor’s degree in science."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "ipsen-80bb02314055"
+    },
+    {
+      "company": "Ipsen",
       "title": "Stagiaire Affaires Médicales Neurosciences",
       "url": "https://ipsen.wd103.myworkdayjobs.com/Ipsen_Careers/job/Paris/Stagiaire-Affaires-Mdicales-Neurosciences_R-22413",
       "location": "Paris",
@@ -4160,8 +4224,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-22",
       "uid": "ipsen-9f3219574da8"
     },
     {
@@ -4209,7 +4273,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-10-28",
+      "closes_estimated": "2026-10-29",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4381,7 +4445,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-10-28",
+      "closes_estimated": "2026-10-29",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5130,8 +5194,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-22",
       "uid": "sanofi-00a20587f0c2"
     },
     {
@@ -8392,7 +8456,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-10-28",
+      "closes_estimated": "2026-10-29",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
