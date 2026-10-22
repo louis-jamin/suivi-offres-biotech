@@ -2773,7 +2773,7 @@
       "location": "UK – London – New Oxford Street",
       "country": "United Kingdom",
       "first_seen": "2026-09-22",
-      "posted_at": "2026-10-15",
+      "posted_at": "2026-10-22",
       "closes_at": "2026-10-22",
       "closes_estimated": "2026-10-22",
       "closes_confidence": "stated",
@@ -4407,9 +4407,9 @@
       "location": "Paris",
       "country": "France",
       "first_seen": "2026-10-20",
-      "posted_at": "2026-10-20",
+      "posted_at": "2026-10-22",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-06",
       "closes_confidence": "high",
       "start_date": "",
       "start_precision": "",
@@ -4418,14 +4418,7 @@
       "contract": "Internship",
       "duration": "",
       "requirements": [
-        "Étudiant(e) en dernière année d'école d'ingénieur, de master en data science, informatique décisionnelle, statistiques, bio-informatique ou domaine scientifique équivalent.",
-        "Forte appétence pour l'analyse de données et les outils de visualisation.",
-        "Maîtrise d'Excel avancé (Power Query, tableaux croisés dynamiques) et connaissance de Power BI.",
-        "Des compétences en traitement de données, automatisation (VBA, Python, Power Automate ou équivalent) seraient un plus.",
-        "Intérêt pour l'industrie pharmaceutique, les affaires réglementaires ou les sciences de la vie.",
-        "Esprit analytique, rigueur et capacité à transformer des données complexes en informations exploitables.",
-        "Bon niveau d'anglais, à l'écrit comme à l'oral.",
-        "Curiosité, autonomie et force de proposition."
+        "Final-year student pursuing a Master's degree or Engineering degree in Data Science, Business Intelligence, Computer Science, Bioinformatics, Statistics, Digital Transformation, or a related discipline."
       ],
       "languages": [
         "English"
@@ -4627,6 +4620,70 @@
       "status": "closed",
       "closed_on": "2026-10-14",
       "uid": "roche-14f90127ae6c"
+    },
+    {
+      "company": "Roche",
+      "title": "Internship - Data and Digital Enablement (PRLABD)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Internship---Data-and-Digital-Enablement--PRLABD-_202610-126742-3",
+      "location": "Penzberg",
+      "country": "Germany",
+      "first_seen": "2026-10-22",
+      "posted_at": "2026-10-22",
+      "closes_at": "",
+      "closes_estimated": "2026-12-06",
+      "closes_confidence": "high",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "start: February 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "This internship is open to students enrolled at a higher education institution throughout the internship. Applicants in a gap year between their Bachelor’s and Master’s degrees are also eligible with written university confirmation that enrollment will resume within the 12-month gap year.",
+        "You are preferably at an advanced stage of your studies in a quantitative or computational discipline. Other academic backgrounds are welcome with relevant technical experience.",
+        "You have hands-on experience implementing and evaluating ML approaches in Python, whether through coursework, research, internships or personal projects. You are comfortable setting up your own development environment, using Git and managing dependencies.",
+        "Deep learning experience is a strong advantage. Additional experience with signal processing, scientific computing, software engineering, Linux, GPU computing or laboratory data is highly valued.",
+        "Knowledge of drug development or biotechnology is a strong advantage. Prior exposure to life sciences or the pharmaceutical industry is a plus, but not required.",
+        "You are curious about the science behind the data, take initiative and value collaboration and feedback. You communicate comfortably in English; German is a plus.",
+        "Your contact to us! With people. For people.",
+        "Do you need further support?"
+      ],
+      "languages": [
+        "English",
+        "German"
+      ],
+      "process": "Final / on-site",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-156ee1310a61"
+    },
+    {
+      "company": "Roche",
+      "title": "Praktikum: Biotechnologische Produktion (Single-Use und Antibody-Drug-Conjugate Technologie) ab Februar in Basel für 12 Monate",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Praktikum--Biotechnologische-Produktion--Single-Use-und-Antibody-Drug-Conjugate-Technologie--ab-Februar-in-Basel-fr-12-Monate_202610-127239",
+      "location": "Basel",
+      "country": "Switzerland",
+      "first_seen": "2026-10-22",
+      "posted_at": "2026-10-22",
+      "closes_at": "2026-11-05",
+      "closes_estimated": "2026-11-05",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Starttermin für dieses Praktikum ist Februar 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [],
+      "languages": [
+        "German"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-2776f459144c"
     },
     {
       "company": "Roche",
@@ -5197,6 +5254,38 @@
       "status": "closed",
       "closed_on": "2026-10-22",
       "uid": "sanofi-00a20587f0c2"
+    },
+    {
+      "company": "Sanofi",
+      "title": "Regulatory Affairs Intern– Rare Diseases",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Amsterdam/Regulatory-Affairs-Intern--Rare-Diseases_R2875738",
+      "location": "Amsterdam",
+      "country": "Netherlands",
+      "first_seen": "2026-10-22",
+      "posted_at": "2026-10-22",
+      "closes_at": "2026-11-05",
+      "closes_estimated": "2026-11-05",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Start date: February/March 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Working alongside experienced regulatory professionals, you will gain hands-on experience in global regulatory processes, contribute to regulatory submissions, and support activities that help bring innovative treatments to patients worldwide.",
+        "Currently pursuing a Master's degree or equivalent postgraduate qualification in Pharmacy or Regulatory Affairs, with a 6-month internship as part of your studies.",
+        "Initial knowledge or experience in Regulatory Affairs.",
+        "Good working knowledge of Microsoft Office applications."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-03abf5b640fb"
     },
     {
       "company": "Sanofi",
@@ -6727,8 +6816,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-22",
       "uid": "sanofi-823bf1594744"
     },
     {
@@ -7096,8 +7185,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-22",
       "uid": "sanofi-9ce5c136310f"
     },
     {
@@ -8255,6 +8344,35 @@
       "status": "closed",
       "closed_on": "2026-10-06",
       "uid": "sanofi-e75bf7faae02"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois en bioanalyse par chromatographie liquide",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-en-bioanalyse-par-chromatographie-liquide_R2874943",
+      "location": "Montpellier",
+      "country": "France",
+      "first_seen": "2026-10-22",
+      "posted_at": "2026-10-22",
+      "closes_at": "2027-02-22",
+      "closes_estimated": "2027-02-22",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+4/5 biotechnologies ou chimie analytique"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-ec2810db4fc4"
     },
     {
       "company": "Sanofi",
