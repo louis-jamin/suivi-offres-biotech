@@ -6015,6 +6015,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois chimie organique thérapeutique",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/Stagiaire-Organic---medicinal-Chemistry_R2873787",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-23",
+      "posted_at": "2026-10-23",
+      "closes_at": "2027-01-23",
+      "closes_estimated": "2027-01-23",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en chimie organique ou chimie thérapeutique"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-337fd583eebd"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 3 mois technicien.ne de laboratoire downstream",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-3-mois-technicienne-de-laboratoire-downstream_R2873361",
       "location": "Vitry-sur-Seine",
@@ -6283,6 +6312,35 @@
       "status": "closed",
       "closed_on": "2026-10-14",
       "uid": "sanofi-547f9da2dad1"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois chimie analytique",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-chimie-analytique_R2873742",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-23",
+      "posted_at": "2026-10-23",
+      "closes_at": "2026-12-31",
+      "closes_estimated": "2026-12-31",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en chimie analytique"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-5e87875f25a2"
     },
     {
       "company": "Sanofi",
@@ -7312,6 +7370,37 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois assurance qualité produits",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Tours/stage-6-mois-assurance-qualit-produits_R2876112",
+      "location": "Tours",
+      "country": "France",
+      "first_seen": "2026-10-23",
+      "posted_at": "2026-10-23",
+      "closes_at": "2026-12-26",
+      "closes_estimated": "2026-12-26",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "En tant que stagiaire au sein de notre département assurance qualité, tu vas participer à la maitrise et à l’amélioration de la qualité des produits. Prêt à commencer ?",
+        "Compétences techniques et relationnelles : dynamisme, travail en transverse, rigueur. Maîtrise des outils bureautiques",
+        "Éducation : bac+5 en assurance qualité, pharmacie ou sciences du médicament"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-a170588d9db9"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois - audit interne R&D et médical",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois---audit-interne_R2873237",
       "location": "Gentilly",
@@ -7513,8 +7602,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-23",
       "uid": "sanofi-ade2241d8abb"
     },
     {
@@ -7524,9 +7613,9 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-13",
-      "posted_at": "2026-10-14",
-      "closes_at": "2027-02-14",
-      "closes_estimated": "2027-02-14",
+      "posted_at": "2026-10-23",
+      "closes_at": "2027-02-23",
+      "closes_estimated": "2027-02-23",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -7536,7 +7625,7 @@
       "duration": "6 months",
       "requirements": [
         "Prendre part à la stratégie de comptage des fluides et de maîtrise des consommations énergétiques",
-        "Éducation : bac+5 en génie chimique, génie biologique ou génie industriel"
+        "Éducation : bac+5 en chimie, biologie ou génie industriel"
       ],
       "languages": [
         "English"
@@ -8464,6 +8553,35 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-f4b00f294dd5"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 3 à 5 mois technicien.ne de laboratoire d’analyse",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-3--5-mois-technicienne-de-laboratoire-d-analyse_R2874673",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-23",
+      "posted_at": "2026-10-23",
+      "closes_at": "2027-01-07",
+      "closes_estimated": "2027-01-07",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "3-5 months",
+      "requirements": [
+        "Éducation : bac+2/3 en chimie analytique"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-f51713ad8885"
     },
     {
       "company": "Sanofi",
