@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25",
+  "generated_at": "2026-10-26",
   "vocab": {
     "stages": [
       "Not applied",
@@ -944,7 +944,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1269,7 +1269,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1417,7 +1417,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1518,7 +1518,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3781,7 +3781,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3918,7 +3918,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4164,28 +4164,30 @@
     },
     {
       "company": "Ipsen",
-      "title": "Trainee, Asset Operations, Project Management (PM) Academy",
+      "title": "Stagiaire - Asset Operations, Project Management Academy",
       "url": "https://ipsen.wd103.myworkdayjobs.com/Ipsen_Careers/job/Paris/Trainee--Asset-Operations--Project-Management--PM--Academy_R-22700-1",
       "location": "Paris",
       "country": "France",
       "first_seen": "2026-10-22",
-      "posted_at": "2026-10-22",
+      "posted_at": "2026-10-26",
       "closes_at": "",
-      "closes_estimated": "2026-12-06",
+      "closes_estimated": "2026-12-10",
       "closes_confidence": "high",
-      "start_date": "",
-      "start_precision": "",
-      "start_evidence": "",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "Date de début : À partir de janvier 2027",
       "season": "Off-cycle",
       "contract": "Internship",
-      "duration": "",
+      "duration": "6 months",
       "requirements": [
-        "Contribute to improving user experience, navigation and accessibility of project management resources.",
-        "Knowledge & Experience (essential):",
-        "Good knowledge of SharePoint and collaborative digital environments.",
-        "Knowledge & Experience (preferred):",
-        "Previous experience involving project coordination, process documentation, knowledge management or digital collaboration tools is a plus.",
-        "Bachelor’s degree in science."
+        "Compétences techniques",
+        "Bonne compréhension des principes, méthodologies et bonnes pratiques de gestion de projet.",
+        "Bonne maîtrise des outils Microsoft Office, notamment Word et PowerPoint.",
+        "Familiarité avec SharePoint ou des plateformes collaboratives similaires permettant de structurer, organiser et partager des contenus.",
+        "Capacité à analyser, synthétiser et présenter des informations de manière claire et structurée.",
+        "Intérêt pour les outils numériques, la gestion documentaire et l'amélioration de l'expérience utilisateur.",
+        "Bon niveau d'anglais, à l'écrit comme à l'oral, permettant d'évoluer dans un environnement international.",
+        "Compétences comportementales :"
       ],
       "languages": [
         "English"
@@ -4273,7 +4275,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4438,7 +4440,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -6015,6 +6017,36 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois documentation assurance qualité",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-documentation-assurance-qualit_R2876237",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-26",
+      "posted_at": "2026-10-26",
+      "closes_at": "2027-02-26",
+      "closes_estimated": "2027-02-26",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "En tant que stagiaire au sein de notre service Assurance Qualité Systems, tu vas participer à renforcer la maîtrise et la disponibilité de la documentation opérationnelle du site. Prêt à commencer ?",
+        "Éducation : bac+ 3 en pharmacie, production ou assurance qualité"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-32de5d5ed3fa"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois chimie organique thérapeutique",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/Stagiaire-Organic---medicinal-Chemistry_R2873787",
       "location": "Vitry-sur-Seine",
@@ -6596,6 +6628,35 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-708c8f4a4ba7"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois affaires pharmaceutiques",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois-affaires-pharmaceutiques_R2871290",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-26",
+      "posted_at": "2026-10-26",
+      "closes_at": "2027-01-26",
+      "closes_estimated": "2027-01-26",
+      "closes_confidence": "stated",
+      "start_date": "2027-04-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : avril 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-71a2fcd75308"
     },
     {
       "company": "Sanofi",
@@ -7304,8 +7365,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-26",
       "uid": "sanofi-9d97b9bd51e8"
     },
     {
@@ -7455,8 +7516,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-26",
       "uid": "sanofi-a61f8fd1be6f"
     },
     {
@@ -7572,9 +7633,39 @@
       ],
       "process": "",
       "process_rounds": null,
+      "status": "closed",
+      "closed_on": "2026-10-26",
+      "uid": "sanofi-a8dae8e17b2f"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois développement procédés fermentation bactérienne",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-dveloppement-procds-fermentation-bactrienne_R2874070",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-26",
+      "posted_at": "2026-10-26",
+      "closes_at": "2027-01-16",
+      "closes_estimated": "2027-01-16",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : rigueur, curiosité, esprit d’équipe. Connaissances en production de protéines recombinantes par fermentation bactérienne, maîtrise de la culture en erlenmeyers et en bioréacteurs",
+        "Éducation : bac+5 en biologie, biotechnologies ou ingénierie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
       "status": "open",
       "closed_on": "",
-      "uid": "sanofi-a8dae8e17b2f"
+      "uid": "sanofi-a965614ffbff"
     },
     {
       "company": "Sanofi",
@@ -7978,8 +8069,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-26",
       "uid": "sanofi-cb4e5a4fea8f"
     },
     {
@@ -8366,8 +8457,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-26",
       "uid": "sanofi-e4070c5d0144"
     },
     {
@@ -8724,7 +8815,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-11-01",
+      "closes_estimated": "2026-11-02",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
