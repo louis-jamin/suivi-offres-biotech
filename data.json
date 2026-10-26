@@ -1162,6 +1162,44 @@
     },
     {
       "company": "Biogen",
+      "title": "AI Business Operations Graduate, Benelux",
+      "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Badhoevedorp-Netherlands/AI-Business-Operations-Graduate--Benelux_REQ24430-1",
+      "location": "Badhoevedorp, Netherlands",
+      "country": "Netherlands",
+      "first_seen": "2026-10-26",
+      "posted_at": "2026-10-26",
+      "closes_at": "",
+      "closes_estimated": "2026-12-10",
+      "closes_confidence": "high",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "Preferred start date: January 2027",
+      "season": "Graduate",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "Required Skills:",
+        "Recent Bachelor's or Master's degree in Business Administration, Business Analytics, Data Science, Information Systems, Engineering, Digital Marketing, or a related field.",
+        "Hands-on experience with AI technologies, such as building custom GPTs or automation tools.",
+        "Fluent in English, both written and spoken; Dutch and French are advantageous.",
+        "Understanding of generative AI applications and their limitations.",
+        "Awareness of data privacy (GDPR) and responsible AI practices.",
+        "Structured working style with strong planning and documentation skills.",
+        "Ability to collaborate with diverse teams across functions and countries."
+      ],
+      "languages": [
+        "English",
+        "French",
+        "Dutch"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "biogen-f36a05fffefd"
+    },
+    {
+      "company": "Biogen",
       "title": "Intern, Value & Access and Commercial (f/m/d)",
       "url": "https://biibhr.wd3.myworkdayjobs.com/external/job/Baar-Switzerland/Intern--Value---Access-and-Commercial--f-m-d-_REQ24089",
       "location": "Baar, Switzerland",
@@ -6134,6 +6172,38 @@
     },
     {
       "company": "Sanofi",
+      "title": "Regulatory Affairs Intern– Rare Diseases",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Amsterdam/Regulatory-Affairs-Intern--Rare-Diseases_R2874042",
+      "location": "Amsterdam",
+      "country": "Netherlands",
+      "first_seen": "2026-10-26",
+      "posted_at": "2026-10-26",
+      "closes_at": "2026-11-06",
+      "closes_estimated": "2026-11-06",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Start date: February/March 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Working alongside experienced regulatory professionals, you will gain hands-on experience in global regulatory processes, contribute to regulatory submissions, and support activities that help bring innovative treatments to patients worldwide.",
+        "Currently pursuing a Master's degree or equivalent postgraduate qualification in Pharmacy or Regulatory Affairs, with a 6-month internship as part of your studies.",
+        "Initial knowledge or experience in Regulatory Affairs.",
+        "Good working knowledge of Microsoft Office applications."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-40226ddf8d43"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois excellence qualité qualification et validation",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-excellence-qualit-qualification-et-validationt_R2873371",
       "location": "Marcy-l'Etoile",
@@ -6538,21 +6608,21 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 4 à 6 mois support laboratoire physico chimie",
+      "title": "stage 6 mois support qualité laboratoire physico chimie",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-4-6-mois-support-laboratoire-physico-chimie_R2873919",
       "location": "Lyon",
       "country": "France",
       "first_seen": "2026-10-05",
-      "posted_at": "2026-10-13",
-      "closes_at": "2027-01-11",
-      "closes_estimated": "2027-01-11",
+      "posted_at": "2026-10-26",
+      "closes_at": "2027-01-26",
+      "closes_estimated": "2027-01-26",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
       "start_evidence": "A partir de : janvier 2027",
       "season": "Off-cycle",
       "contract": "Internship",
-      "duration": "4-6 months",
+      "duration": "6 months",
       "requirements": [
         "Éducation : bac+5 en pharmacie ou qualité"
       ],
@@ -6561,8 +6631,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-16",
+      "status": "open",
+      "closed_on": "",
       "uid": "sanofi-673cd76b9e07"
     },
     {
@@ -8369,8 +8439,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-26",
       "uid": "sanofi-e1200e398318"
     },
     {
