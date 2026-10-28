@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27",
+  "generated_at": "2026-10-28",
   "vocab": {
     "stages": [
       "Not applied",
@@ -978,7 +978,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1341,7 +1341,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1489,7 +1489,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1590,7 +1590,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3515,8 +3515,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-28",
       "uid": "gsk-adbf5e0e2ec4"
     },
     {
@@ -3890,7 +3890,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-26",
+      "closes_estimated": "2026-11-27",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4027,7 +4027,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-26",
+      "closes_estimated": "2026-11-27",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4384,7 +4384,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4549,7 +4549,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5429,6 +5429,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois affaires médicales maladies rares",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois-affaires-mdicales-maladies-rares_R2872875",
+      "location": "Gentilly",
+      "country": "France",
+      "first_seen": "2026-10-28",
+      "posted_at": "2026-10-28",
+      "closes_at": "2027-02-28",
+      "closes_estimated": "2027-02-28",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+ 5 ou bac+ 6 en pharmacie, médecine ou affaires médicales"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-015d82ec3ae8"
+    },
+    {
+      "company": "Sanofi",
       "title": "Regulatory Affairs Intern– Rare Diseases",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Amsterdam/Regulatory-Affairs-Intern--Rare-Diseases_R2875738",
       "location": "Amsterdam",
@@ -5972,8 +6001,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-28",
       "uid": "sanofi-2130fd38393d"
     },
     {
@@ -6434,9 +6463,9 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-11",
-      "posted_at": "2026-10-11",
-      "closes_at": "2026-12-11",
-      "closes_estimated": "2026-12-11",
+      "posted_at": "2026-10-28",
+      "closes_at": "2026-12-28",
+      "closes_estimated": "2026-12-28",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -6445,8 +6474,8 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Compétences techniques et relationnelles : Rigueur, aisance relationnelle et autonomie. Maîtrise de la rédaction de documents liés aux études, notamment les protocoles et les rapports, connaissance des procédés de filtration",
-        "Éducation : bac+5 en génie biologique, biotechnologies ou génie industriel"
+        "Compétences techniques et relationnelles : rigueur, aisance relationnelle, autonomie. Maîtrise de la rédaction de documents liés aux études, notamment les protocoles et les rapports, connaissance des procédés de filtration",
+        "Éducation : bac+5 en biologie, biotechnologies ou génie industriel"
       ],
       "languages": [
         "English"
@@ -6639,6 +6668,38 @@
       "status": "closed",
       "closed_on": "2026-09-23",
       "uid": "sanofi-625d09fa9124"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois assurance qualité maîtrise contamination",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-assurance-qualit-matrise-contamination_R2876546",
+      "location": "Vitry-sur-Seine",
+      "country": "France",
+      "first_seen": "2026-10-28",
+      "posted_at": "2026-10-28",
+      "closes_at": "2027-01-08",
+      "closes_estimated": "2027-01-08",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Intitulé du poste : stage 6 mois assurance qualité maîtrise contamination",
+        "En tant que stagiaire assurance qualité maîtrise contamination au sein de notre équipe assurance de stérilité, tu vas veiller au respect des exigences qualité et réglementaires en matière de maîtrise des risques de biocontamination. Prêt à commencer ?",
+        "Compétences techniques et relationnelles : rigueur, proactivité, travail en transverse. Connaissances en microbiologie et en risques de contamination dans l'industrie pharmaceutique, maîtrise des bonnes pratiques de fabrication et des outils bureautiques",
+        "Éducation : bac+4/5 en assurance qualité, ingénierie ou pharmacie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-650ce469c9cb"
     },
     {
       "company": "Sanofi",
@@ -7400,8 +7461,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-28",
       "uid": "sanofi-9470659e2e76"
     },
     {
@@ -7989,8 +8050,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-28",
       "uid": "sanofi-b1b58c0bb732"
     },
     {
@@ -8482,8 +8543,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-28",
       "uid": "sanofi-dfc1bc7f6172"
     },
     {
@@ -9019,7 +9080,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-11-03",
+      "closes_estimated": "2026-11-04",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
