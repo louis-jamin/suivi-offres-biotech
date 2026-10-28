@@ -4439,8 +4439,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-28",
       "uid": "ipsen-c7d1849f970a"
     },
     {
@@ -5847,8 +5847,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-28",
       "uid": "sanofi-13e80fd30535"
     },
     {
@@ -6184,21 +6184,21 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois documentation assurance qualité",
+      "title": "stage 4 à 6 mois documentation assurance qualité",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois-documentation-assurance-qualit_R2876237",
       "location": "Vitry-sur-Seine",
       "country": "France",
       "first_seen": "2026-10-26",
-      "posted_at": "2026-10-26",
-      "closes_at": "2027-02-26",
-      "closes_estimated": "2027-02-26",
+      "posted_at": "2026-10-28",
+      "closes_at": "2027-02-28",
+      "closes_estimated": "2027-02-28",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
       "start_evidence": "A partir de : février 2027",
       "season": "Off-cycle",
       "contract": "Internship",
-      "duration": "6 months",
+      "duration": "4-6 months",
       "requirements": [
         "En tant que stagiaire au sein de notre service Assurance Qualité Systems, tu vas participer à renforcer la maîtrise et la disponibilité de la documentation opérationnelle du site. Prêt à commencer ?",
         "Éducation : bac+ 3 en pharmacie, production ou assurance qualité"
@@ -8636,14 +8636,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois – support amélioration continue",
+      "title": "stage 6 mois – support production",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Vitry-sur-Seine/stage-6-mois---support-amlioration-continue_R2875069",
       "location": "Vitry-sur-Seine",
       "country": "France",
       "first_seen": "2026-10-16",
-      "posted_at": "2026-10-16",
-      "closes_at": "2027-01-16",
-      "closes_estimated": "2027-01-16",
+      "posted_at": "2026-10-28",
+      "closes_at": "2027-01-28",
+      "closes_estimated": "2027-01-28",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "inferred",
@@ -8652,7 +8652,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac +5 en bioproduction, génie industriel, génie des procédés ou ingénierie généraliste"
+        "Éducation : bac +5 en bioproduction, génie des procédés, biotechnologie ou ingénierie généraliste"
       ],
       "languages": [
         "English"
