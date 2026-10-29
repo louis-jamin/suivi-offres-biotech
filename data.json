@@ -2114,6 +2114,34 @@
     },
     {
       "company": "Eurofins",
+      "title": "Stage - Chef de projets Qualité (H/F) - Nantes (44)",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000158538499",
+      "location": "Nantes, fr",
+      "country": "",
+      "first_seen": "2026-10-29",
+      "posted_at": "2026-10-29",
+      "closes_at": "",
+      "closes_estimated": "2026-12-08",
+      "closes_confidence": "high",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Démarrage : février/mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-c16da7430269"
+    },
+    {
+      "company": "Eurofins",
       "title": "Stage - Ingénieur R&D Contaminants (H/F) - Nantes (44)",
       "url": "https://jobs.smartrecruiters.com/Eurofins/744000157073422",
       "location": "Nantes, fr",
@@ -2195,8 +2223,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-29",
       "uid": "eurofins-c885ea6be252"
     },
     {
@@ -2670,9 +2698,9 @@
       "location": "GSK Tres Cantos, Madrid",
       "country": "Spain",
       "first_seen": "2026-10-08",
-      "posted_at": "2026-10-08",
-      "closes_at": "2026-10-23",
-      "closes_estimated": "2026-10-23",
+      "posted_at": "2026-10-29",
+      "closes_at": "2026-10-30",
+      "closes_estimated": "2026-10-30",
       "closes_confidence": "stated",
       "start_date": "",
       "start_precision": "",
@@ -2690,8 +2718,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-23",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-3ade1d198c28"
     },
     {
@@ -2845,9 +2873,9 @@
       "location": "UK – London – New Oxford Street",
       "country": "United Kingdom",
       "first_seen": "2026-09-22",
-      "posted_at": "2026-10-22",
-      "closes_at": "2026-10-22",
-      "closes_estimated": "2026-10-22",
+      "posted_at": "2026-10-29",
+      "closes_at": "2026-11-05",
+      "closes_estimated": "2026-11-05",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "year",
@@ -2870,8 +2898,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "closed",
-      "closed_on": "2026-10-23",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-506f8e33d08a"
     },
     {
@@ -5610,8 +5638,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-29",
       "uid": "sanofi-0798cbdb2874"
     },
     {
@@ -7113,8 +7141,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-29",
       "uid": "sanofi-7edc4d077e98"
     },
     {
@@ -9130,8 +9158,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-29",
       "uid": "viatris-6088f10273b2"
     },
     {
