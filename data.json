@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29",
+  "generated_at": "2026-10-30",
   "vocab": {
     "stages": [
       "Not applied",
@@ -311,8 +311,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "astrazeneca-0432880c4b19"
     },
     {
@@ -978,7 +978,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-11-05",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1341,7 +1341,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-11-05",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1489,7 +1489,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-11-05",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1590,7 +1590,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17",
       "closes_at": "",
-      "closes_estimated": "2026-11-05",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1902,8 +1902,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "eurofins-70ad371048e8"
     },
     {
@@ -2288,6 +2288,31 @@
     },
     {
       "company": "Eurofins",
+      "title": "Analista Chimico Junior - Medical Devices Lab",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000158720674",
+      "location": "Milan, it",
+      "country": "",
+      "first_seen": "2026-10-30",
+      "posted_at": "2026-10-30",
+      "closes_at": "",
+      "closes_estimated": "2026-12-09",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-e5e932c4f3fe"
+    },
+    {
+      "company": "Eurofins",
       "title": "Stage - Ingénieur Qualité & Amélioration Continue (H/F) - Nantes (44)",
       "url": "https://jobs.smartrecruiters.com/Eurofins/744000147254854",
       "location": "Nantes, fr",
@@ -2337,8 +2362,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "eurofins-f0caea645a48"
     },
     {
@@ -2718,8 +2743,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "gsk-3ade1d198c28"
     },
     {
@@ -3954,7 +3979,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-28",
+      "closes_estimated": "2026-11-29",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4091,7 +4116,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-11-28",
+      "closes_estimated": "2026-11-29",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4448,7 +4473,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-11-05",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4613,7 +4638,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-11-05",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5303,8 +5328,8 @@
       ],
       "process": "Scientific presentation",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "roche-bc8763db3550"
     },
     {
@@ -7292,8 +7317,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "sanofi-83884abe2e0c"
     },
     {
@@ -7701,9 +7726,9 @@
       "location": "Vitry-sur-Seine",
       "country": "France",
       "first_seen": "2026-10-16",
-      "posted_at": "2026-10-16",
-      "closes_at": "2027-01-16",
-      "closes_estimated": "2027-01-16",
+      "posted_at": "2026-10-30",
+      "closes_at": "2027-01-30",
+      "closes_estimated": "2027-01-30",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "inferred",
@@ -7713,7 +7738,7 @@
       "duration": "6 months",
       "requirements": [
         "Compétences techniques et relationnelles : esprit analytique, rigueur, curiosité. Maitrise du pack office",
-        "Éducation : bac +5 en biotechnologies, génie des procédés, ingénierie pharmaceutique ou systèmes industriels"
+        "Éducation : bac +5 en biotechnologies, génie des procédés, pharmacie ou systèmes industriels"
       ],
       "languages": [
         "English"
@@ -8995,8 +9020,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "sanofi-f4b00f294dd5"
     },
     {
@@ -9203,7 +9228,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-11-05",
+      "closes_estimated": "2026-11-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
