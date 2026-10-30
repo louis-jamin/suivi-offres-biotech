@@ -5541,8 +5541,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "sanofi-015d82ec3ae8"
     },
     {
@@ -5906,8 +5906,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "sanofi-11d1a9c8ac3a"
     },
     {
@@ -6061,8 +6061,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "sanofi-20880ec86cce"
     },
     {
@@ -6278,7 +6278,7 @@
       "location": "Vitry-sur-Seine",
       "country": "France",
       "first_seen": "2026-10-26",
-      "posted_at": "2026-10-28",
+      "posted_at": "2026-10-30",
       "closes_at": "2027-02-28",
       "closes_estimated": "2027-02-28",
       "closes_confidence": "stated",
@@ -6858,14 +6858,14 @@
     },
     {
       "company": "Sanofi",
-      "title": "stage 6 mois support qualité laboratoire physico chimie",
+      "title": "stage 6 mois support qualité et amélioration continue",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-4-6-mois-support-laboratoire-physico-chimie_R2873919",
       "location": "Lyon",
       "country": "France",
       "first_seen": "2026-10-05",
-      "posted_at": "2026-10-26",
-      "closes_at": "2027-01-26",
-      "closes_estimated": "2027-01-26",
+      "posted_at": "2026-10-30",
+      "closes_at": "2027-01-30",
+      "closes_estimated": "2027-01-30",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -7317,8 +7317,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-30",
+      "status": "open",
+      "closed_on": "",
       "uid": "sanofi-83884abe2e0c"
     },
     {
@@ -7556,6 +7556,35 @@
     },
     {
       "company": "Sanofi",
+      "title": "stage 6 mois – support production projet",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois---support-production-projet_R2876745",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-30",
+      "posted_at": "2026-10-30",
+      "closes_at": "2027-01-30",
+      "closes_estimated": "2027-01-30",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : janvier",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en pharmacie ou ingénierie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-94b54401633c"
+    },
+    {
+      "company": "Sanofi",
       "title": "Strategic Project Specialist - Specialty Care - VIE Contract",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Porto-Salvo/Strategic-Project-Specialist---Specialty-Care---VIE-Contract_R2871786",
       "location": "Porto Salvo",
@@ -7715,8 +7744,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-10-30",
       "uid": "sanofi-9e7002978d4a"
     },
     {
@@ -8363,6 +8392,35 @@
       "status": "closed",
       "closed_on": "2026-10-05",
       "uid": "sanofi-c76a27e892a5"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois – support production biotechnologique amélioration continue",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/stage-6-mois---support-production-biotechnologique-amlioration-continue_R2875719",
+      "location": "Lyon",
+      "country": "France",
+      "first_seen": "2026-10-30",
+      "posted_at": "2026-10-30",
+      "closes_at": "2027-01-30",
+      "closes_estimated": "2027-01-30",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "inferred",
+      "start_evidence": "A partir de : janvier",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac +5 en pharmacie ou ingénierie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-c859fc259ef9"
     },
     {
       "company": "Sanofi",
@@ -9020,8 +9078,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-30",
+      "status": "open",
+      "closed_on": "",
       "uid": "sanofi-f4b00f294dd5"
     },
     {
@@ -9125,6 +9183,38 @@
       "status": "closed",
       "closed_on": "2026-10-23",
       "uid": "sanofi-fe0ac04243b2"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois support projet digital transformation",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-support-projet-digital-transformation_R2874216",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-10-30",
+      "posted_at": "2026-10-30",
+      "closes_at": "2027-02-28",
+      "closes_estimated": "2027-02-28",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Participer aux tests et à l'analyse des retours utilisateurs afin d'optimiser l'expérience et l'efficacité des solutions déployées",
+        "S'impliquer dans la collecte et l'analyse des retours d'expérience des utilisateurs, ainsi que dans le suivi des indicateurs de performance comme le taux d'adoption, gain de temps et l'amélioration de la qualité",
+        "Compétences techniques et relationnelles : autonomie, dynamisme, rigueur. Compétences en langages de programmation, en création de contenus. Maîtrise des outils digitaux collaboratifs",
+        "Éducation : bac+4/5 en data science, communication digitale, transformation digitale"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-fe279d786137"
     },
     {
       "company": "Smith+Nephew",
@@ -9252,6 +9342,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "viatris-8d576906088e"
+    },
+    {
+      "company": "Viatris",
+      "title": "Commercial Excellence Support -Internship 6 months",
+      "url": "https://viatris.wd5.myworkdayjobs.com/External/job/Milan-Lombardy-Italy/Commercial-Excellence-Support--Internship-6-months_R5675006",
+      "location": "Milan, Lombardy, Italy",
+      "country": "Italy",
+      "first_seen": "2026-10-30",
+      "posted_at": "2026-10-30",
+      "closes_at": "",
+      "closes_estimated": "2026-12-14",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "For this role, we’re looking for a candidate who has an effective combination of the following qualifications, skills and experiences:",
+        "Bachelor's or Master's degree (completed or in progress) in Management Engineering, Computer Engineering, Data Science, Statistics, Mathematics, Economics or a related quantitative field."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "viatris-9b690705e018"
     },
     {
       "company": "Viatris",
