@@ -5554,8 +5554,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-02",
       "uid": "roche-e33714f1b37b"
     },
     {
@@ -7044,8 +7044,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-02",
       "uid": "sanofi-673cd76b9e07"
     },
     {
@@ -9270,8 +9270,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-02",
       "uid": "sanofi-f51713ad8885"
     },
     {
