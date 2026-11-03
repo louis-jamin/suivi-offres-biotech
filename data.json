@@ -1062,6 +1062,40 @@
       "uid": "astrazeneca-acee14714447"
     },
     {
+      "company": "AstraZeneca",
+      "title": "Real World Evidence Trainee - 12 month Career Starter Program",
+      "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/Poland---Warsaw/Real-World-Evidence-Trainee---12-month-Career-Starter-Program_R-263319",
+      "location": "Poland - Warsaw",
+      "country": "Poland",
+      "first_seen": "2026-11-03",
+      "posted_at": "2026-11-03",
+      "closes_at": "2026-11-30",
+      "closes_estimated": "2026-11-30",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Unknown",
+      "contract": "",
+      "duration": "",
+      "requirements": [
+        "University degree / last 1-2 years of studies (preferably in life-science – medicine, pharmacy, other)",
+        "focus on development enthusiasm and passion",
+        "being a kind of “fast-learner”",
+        "attention to details",
+        "willingness to take on new challenges and contribute in the form of your own unique ideas and skills",
+        "analytical thinking",
+        "perational experience in clinical trials",
+        "experience in writing scientific publications"
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "astrazeneca-d92d47b78ffe"
+    },
+    {
       "company": "Bicycle Therapeutics",
       "title": "IT Systems Analyst",
       "url": "https://jobs.smartrecruiters.com/bicycletherapeutics/744000149315050",
@@ -4817,6 +4851,33 @@
     },
     {
       "company": "Raidium",
+      "title": "Scientific Product Enablement Intern",
+      "url": "https://jobs.lever.co/raidium/fc80977b-a403-49b3-86e8-774b0aa656f1",
+      "location": "Paris",
+      "country": "",
+      "first_seen": "2026-11-03",
+      "posted_at": "2026-11-03",
+      "closes_at": "",
+      "closes_estimated": "2026-12-08",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "In practice: A Key Role at the Heart of Healthcare & AI InnovationYour Experience and QualificationsPluses (not exhaustive)Why join us"
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "raidium-05f06c443b2f"
+    },
+    {
+      "company": "Raidium",
       "title": "Strategy & Operations Analyst Intern",
       "url": "https://jobs.lever.co/raidium/3ec0bc3b-e4f2-42a8-b68d-c8c3b8fa9755",
       "location": "Paris",
@@ -4851,6 +4912,33 @@
       "status": "open",
       "closed_on": "",
       "uid": "raidium-7dd60d812551"
+    },
+    {
+      "company": "Raidium",
+      "title": "Process Design & Automation Intern (Clinical Solutions)",
+      "url": "https://jobs.lever.co/raidium/b923b41d-e82c-4956-84a7-3f678c170df7",
+      "location": "Paris",
+      "country": "",
+      "first_seen": "2026-11-03",
+      "posted_at": "2026-11-03",
+      "closes_at": "",
+      "closes_estimated": "2026-12-08",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "In practice: A Key Role at the Heart of Healthcare & AI InnovationYour Experience and QualificationsPluses (not exhaustive)Why join us"
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "raidium-818e60c32cbc"
     },
     {
       "company": "Roche",
@@ -5134,8 +5222,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-03",
       "uid": "roche-59e5cad67993"
     },
     {
@@ -6339,8 +6427,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-03",
       "uid": "sanofi-250f8678e1b1"
     },
     {
@@ -8025,8 +8113,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-03",
       "uid": "sanofi-a18114eaf362"
     },
     {
@@ -9351,9 +9439,9 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-30",
-      "posted_at": "2026-10-30",
-      "closes_at": "2027-02-28",
-      "closes_estimated": "2027-02-28",
+      "posted_at": "2026-11-03",
+      "closes_at": "2027-03-03",
+      "closes_estimated": "2027-03-03",
       "closes_confidence": "stated",
       "start_date": "2027-02-01",
       "start_precision": "month",
@@ -9364,8 +9452,8 @@
       "requirements": [
         "Participer aux tests et à l'analyse des retours utilisateurs afin d'optimiser l'expérience et l'efficacité des solutions déployées",
         "S'impliquer dans la collecte et l'analyse des retours d'expérience des utilisateurs, ainsi que dans le suivi des indicateurs de performance comme le taux d'adoption, gain de temps et l'amélioration de la qualité",
-        "Compétences techniques et relationnelles : autonomie, dynamisme, rigueur. Compétences en langages de programmation, en création de contenus. Maîtrise des outils digitaux collaboratifs",
-        "Éducation : bac+4/5 en data science, communication digitale, transformation digitale"
+        "Compétences techniques et relationnelles : autonomie, dynamisme, rigueur. Maîtrise des outils digitaux collaboratifs",
+        "Éducation : bac+5 en data science, communication digitale, transformation digitale"
       ],
       "languages": [
         "English"
