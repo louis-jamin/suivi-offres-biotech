@@ -2048,8 +2048,8 @@
       "languages": [],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-04",
       "uid": "eurofins-a9233304f131"
     },
     {
@@ -5158,8 +5158,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-04",
       "uid": "roche-5382a97e0dd2"
     },
     {
