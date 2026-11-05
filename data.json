@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04",
+  "generated_at": "2026-11-05",
   "vocab": {
     "stages": [
       "Not applied",
@@ -978,7 +978,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-11-11",
+      "closes_estimated": "2026-11-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1375,7 +1375,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-11-11",
+      "closes_estimated": "2026-11-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1496,8 +1496,8 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-04",
-      "closes_confidence": "high",
+      "closes_estimated": "2026-11-12",
+      "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
       "start_evidence": "",
@@ -1523,7 +1523,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-11-11",
+      "closes_estimated": "2026-11-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1624,7 +1624,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17",
       "closes_at": "",
-      "closes_estimated": "2026-11-11",
+      "closes_estimated": "2026-11-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -2111,6 +2111,35 @@
       "status": "closed",
       "closed_on": "2026-09-24",
       "uid": "eurofins-b6685286b86e"
+    },
+    {
+      "company": "Eurofins",
+      "title": "IT Internship (3-month or 6-month opportunity)",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000159842115",
+      "location": "Brussels, be",
+      "country": "",
+      "first_seen": "2026-11-05",
+      "posted_at": "2026-11-05",
+      "closes_at": "",
+      "closes_estimated": "2026-12-15",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "3 months",
+      "requirements": [
+        "Education: Currently pursuing a master’s degree in computer science, information technology, data science, software engineering, business analysis or a related field."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-bb2e41f377a7"
     },
     {
       "company": "Eurofins",
@@ -4038,7 +4067,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4175,7 +4204,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4383,8 +4412,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-05",
       "uid": "ipsen-14c101997e6f"
     },
     {
@@ -4415,8 +4444,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-05",
       "uid": "ipsen-5df1bb377e9a"
     },
     {
@@ -4532,7 +4561,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-11-11",
+      "closes_estimated": "2026-11-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4697,7 +4726,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-11-11",
+      "closes_estimated": "2026-11-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4757,8 +4786,8 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-04",
-      "closes_confidence": "high",
+      "closes_estimated": "2026-11-12",
+      "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
       "start_evidence": "démarrage à partir de janvier 2027",
@@ -4941,6 +4970,31 @@
       "uid": "raidium-818e60c32cbc"
     },
     {
+      "company": "Raidium",
+      "title": "Machine Learning Research Intern - Foundation Models for Radiology",
+      "url": "https://jobs.lever.co/raidium/cc860ee6-7209-4a93-bbb8-07c681f1deb7",
+      "location": "Paris",
+      "country": "",
+      "first_seen": "2026-11-05",
+      "posted_at": "2026-11-04",
+      "closes_at": "",
+      "closes_estimated": "2026-12-09",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "raidium-9adce0458b1f"
+    },
+    {
       "company": "Roche",
       "title": "Junior Custom Software Developer - RDT Data Platforms",
       "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Warsaw/Junior-Custom-Software-Developer---RDT-Data-Platforms_202610-125284",
@@ -5063,8 +5117,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-05",
       "uid": "roche-2776f459144c"
     },
     {
@@ -5386,8 +5440,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-05",
       "uid": "roche-789060be0053"
     },
     {
@@ -7311,8 +7365,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-05",
       "uid": "sanofi-7a48e4e042f1"
     },
     {
@@ -7658,6 +7712,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-8a91922de865"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois pharmacovigilance",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois-pharmacovigilance_R2873989",
+      "location": "Gentilly",
+      "country": "France",
+      "first_seen": "2026-11-05",
+      "posted_at": "2026-11-05",
+      "closes_at": "2027-01-15",
+      "closes_estimated": "2027-01-15",
+      "closes_confidence": "stated",
+      "start_date": "2027-03-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : esprit d’équipe, rigueur, organisation. Connaissances en réglementation de la pharmacovigilance en France et en Europe, maîtrise du pack Microsoft Office",
+        "Éducation : bac+5 en pharmacie , pharmacologie ou sciences de la vie."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-8c36803e6b40"
     },
     {
       "company": "Sanofi",
@@ -8514,8 +8598,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-05",
       "uid": "sanofi-b5be7b340b27"
     },
     {
@@ -9566,7 +9650,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-11-11",
+      "closes_estimated": "2026-11-12",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
