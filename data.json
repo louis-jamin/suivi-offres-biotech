@@ -5156,7 +5156,7 @@
     },
     {
       "company": "Raidium",
-      "title": "Machine Learning Research Intern - Foundation Models for Radiology",
+      "title": "Machine Learning Internship - Foundation Models for Radiology",
       "url": "https://jobs.lever.co/raidium/cc860ee6-7209-4a93-bbb8-07c681f1deb7",
       "location": "Paris",
       "country": "",
@@ -7524,6 +7524,36 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-799d7668eb2b"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois biologie moléculaire ARNm",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-biologie-molculaire-ARNm_R2876377",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-11-06",
+      "posted_at": "2026-11-06",
+      "closes_at": "2027-03-06",
+      "closes_estimated": "2027-03-06",
+      "closes_confidence": "stated",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : janvier 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Compétences techniques et relationnelles : esprit d'équipe, autonomie, communication. Connaissances en biologie moléculaire, notamment séquençage NGS, extraction et purification des acides nucléiques. Expérience en culture de lignées cellulaires humaines",
+        "Éducation : bac+4/5 en biologie moléculaire, biochimie ou chimie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-79d294b3785b"
     },
     {
       "company": "Sanofi",
