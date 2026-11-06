@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05",
+  "generated_at": "2026-11-06",
   "vocab": {
     "stages": [
       "Not applied",
@@ -1072,7 +1072,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1469,7 +1469,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1590,7 +1590,7 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1617,7 +1617,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1718,7 +1718,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-09-17",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3105,8 +3105,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-06",
       "uid": "gsk-506f8e33d08a"
     },
     {
@@ -4161,7 +4161,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-05",
+      "closes_estimated": "2026-12-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4298,7 +4298,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-05",
+      "closes_estimated": "2026-12-06",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4653,7 +4653,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4818,7 +4818,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4872,6 +4872,40 @@
     {
       "company": "Lesaffre",
       "title": "Stage 6 mois – Chargé(e) de projet automatisation IA pour les RH",
+      "url": "https://jobs.smartrecruiters.com/lesaffre/744000160142259",
+      "location": "Marquette-lez-Lille, fr",
+      "country": "",
+      "first_seen": "2026-11-06",
+      "posted_at": "2026-11-06",
+      "closes_at": "",
+      "closes_estimated": "2026-12-16",
+      "closes_confidence": "high",
+      "start_date": "2027-01-01",
+      "start_precision": "inferred",
+      "start_evidence": "début janvier",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Python avancé (pandas, APIs, FastAPI)",
+        "NLP et LLMs (expérience avec des APIs ou modèles open-source)",
+        "Construction de workflows agentiques",
+        "Automatisation (scripts, Excel, connecteurs)",
+        "Autonomie et rigueur",
+        "Capacité à vulgariser pour une équipe non technique",
+        "Appétence pour l'innovation",
+        "En pratique :"
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "lesaffre-6f9e65afc6c8"
+    },
+    {
+      "company": "Lesaffre",
+      "title": "Stage 6 mois – Chargé(e) de projet automatisation IA pour les RH",
       "url": "https://jobs.smartrecruiters.com/lesaffre/744000159915194",
       "location": "Marquette-lez-Lille, fr",
       "country": "",
@@ -4899,8 +4933,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-06",
       "uid": "lesaffre-9021c59063f7"
     },
     {
@@ -4912,7 +4946,7 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5000,8 +5034,8 @@
       ],
       "process": "HR screen",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-06",
       "uid": "novartis-af6aa0029b72"
     },
     {
@@ -5033,7 +5067,7 @@
     },
     {
       "company": "Raidium",
-      "title": "Ml Internship - Learning from radiology reports to detect cancer on CT",
+      "title": "Machine Learning Intern - Learning from radiology reports to detect cancer on CT",
       "url": "https://jobs.lever.co/raidium/e6b9f7e1-1332-4ef9-95ca-198f5a3753a7",
       "location": "Paris",
       "country": "",
@@ -6276,9 +6310,9 @@
       "location": "Montpellier",
       "country": "France",
       "first_seen": "2026-11-02",
-      "posted_at": "2026-11-02",
-      "closes_at": "2027-03-02",
-      "closes_estimated": "2027-03-02",
+      "posted_at": "2026-11-06",
+      "closes_at": "2027-03-06",
+      "closes_estimated": "2027-03-06",
       "closes_confidence": "stated",
       "start_date": "2027-03-01",
       "start_precision": "month",
@@ -6287,7 +6321,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac+ 5 en pharmacie ou en qualité"
+        "Éducation : bac+ 5/bac+6 en pharmacie ou en qualité"
       ],
       "languages": [
         "English"
@@ -6703,9 +6737,9 @@
       "location": "Marcy-l'Etoile",
       "country": "France",
       "first_seen": "2026-10-05",
-      "posted_at": "2026-10-05",
-      "closes_at": "2027-02-05",
-      "closes_estimated": "2027-02-05",
+      "posted_at": "2026-11-06",
+      "closes_at": "2027-03-06",
+      "closes_estimated": "2027-03-06",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -6714,7 +6748,7 @@
       "contract": "Internship",
       "duration": "6 months",
       "requirements": [
-        "Éducation : bac+ 4 ou bac+ 5 en qualité, pharmacie, systèmes d’informations ou école d’ingénieur"
+        "Éducation : bac+ 4/ bac+ 5 en qualité, pharmacie, systèmes d’informations ou ingénierie"
       ],
       "languages": [
         "English"
@@ -6899,8 +6933,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-06",
       "uid": "sanofi-40226ddf8d43"
     },
     {
@@ -8347,8 +8381,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-06",
       "uid": "sanofi-a170588d9db9"
     },
     {
@@ -9830,7 +9864,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-11-12",
+      "closes_estimated": "2026-11-13",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -9908,8 +9942,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-06",
       "uid": "viatris-f4c08415c059"
     },
     {
