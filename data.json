@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08",
+  "generated_at": "2026-11-09",
   "vocab": {
     "stages": [
       "Not applied",
@@ -1072,7 +1072,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-05-20",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1469,7 +1469,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1590,7 +1590,7 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1617,7 +1617,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1645,7 +1645,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1682,7 +1682,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1739,8 +1739,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "draeger-6bbe2f6eb182"
     },
     {
@@ -1834,8 +1834,8 @@
       ],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "eurofins-3e933e6f8eb5"
     },
     {
@@ -1934,8 +1934,8 @@
       ],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "eurofins-5cc670c55e10"
     },
     {
@@ -4161,7 +4161,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-08",
+      "closes_estimated": "2026-12-09",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4298,7 +4298,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-08",
+      "closes_estimated": "2026-12-09",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4653,7 +4653,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-01-05",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4818,7 +4818,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4946,7 +4946,7 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5002,8 +5002,8 @@
       ],
       "process": "HR screen → Manager interview",
       "process_rounds": 2,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "nemera-d7eddd784949"
     },
     {
@@ -5275,8 +5275,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "roche-156ee1310a61"
     },
     {
@@ -5369,8 +5369,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "roche-4911d289bb08"
     },
     {
@@ -5527,8 +5527,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "roche-620b4df57d55"
     },
     {
@@ -5873,8 +5873,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "roche-cfcc296e5cfe"
     },
     {
@@ -5939,8 +5939,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "roche-fa77ac39421c"
     },
     {
@@ -6426,6 +6426,35 @@
       "status": "closed",
       "closed_on": "2026-10-30",
       "uid": "sanofi-11d1a9c8ac3a"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 2 mois logistique de production vaccins",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-2-mois-logistique-de-production-vaccins_R2877643",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-11-09",
+      "posted_at": "2026-11-09",
+      "closes_at": "2027-01-21",
+      "closes_estimated": "2027-01-21",
+      "closes_confidence": "stated",
+      "start_date": "2027-03-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : mars 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "2 months",
+      "requirements": [
+        "Éducation : bac+3 en biologie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-132a26f5cb1b"
     },
     {
       "company": "Sanofi",
@@ -7497,6 +7526,44 @@
     },
     {
       "company": "Sanofi",
+      "title": "Commercial Project Specialist - Insulins & Established Products Franchise - VIE Contract",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Berlin/Commercial-Project-Specialist---Insulins---Established-Products-Franchise---VIE-Contract_R2874997",
+      "location": "Berlin",
+      "country": "Germany",
+      "first_seen": "2026-11-09",
+      "posted_at": "2026-11-09",
+      "closes_at": "2027-03-09",
+      "closes_estimated": "2027-03-09",
+      "closes_confidence": "stated",
+      "start_date": "2027-03-01",
+      "start_precision": "day",
+      "start_evidence": "Target start date: 01/03/2027",
+      "season": "Graduate",
+      "contract": "VIE",
+      "duration": "",
+      "requirements": [
+        "Strong analytical and organizational skills.",
+        "Proactive, pragmatic and hands-on mindset.",
+        "Ability to manage multiple priorities and deliver results.",
+        "Strong communication and interpersonal skills.",
+        "Curiosity, adaptability and willingness to learn.",
+        "Comfortable working independently and in cross-functional teams.",
+        "Strong proficiency in Excel and PowerPoint.",
+        "Analytical and problem-solving capabilities."
+      ],
+      "languages": [
+        "English",
+        "French",
+        "German"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-787677237ee3"
+    },
+    {
+      "company": "Sanofi",
       "title": "stage 6 mois pilotage formation compliance supply chain clinique",
       "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-pilotage-formation-compliance-supply-chain-clinique_R2873891",
       "location": "Montpellier",
@@ -8529,8 +8596,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "sanofi-a6ae7461288a"
     },
     {
@@ -9024,8 +9091,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-09",
       "uid": "sanofi-c859fc259ef9"
     },
     {
@@ -9894,7 +9961,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-11-15",
+      "closes_estimated": "2026-11-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
