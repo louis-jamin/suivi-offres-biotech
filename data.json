@@ -2405,8 +2405,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-10",
       "uid": "eurofins-ca2d6ae2ffaf"
     },
     {
@@ -2821,8 +2821,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-10",
       "uid": "gsk-161cc23a7166"
     },
     {
@@ -5664,6 +5664,42 @@
       "status": "closed",
       "closed_on": "2026-11-05",
       "uid": "roche-789060be0053"
+    },
+    {
+      "company": "Roche",
+      "title": "Praktikum im Bereich Qualitätskontrolle (m/w/d)",
+      "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Praktikum-im-Bereich-Qualittskontrolle--m-w-d-_202610-127336-1",
+      "location": "Penzberg",
+      "country": "Germany",
+      "first_seen": "2026-11-10",
+      "posted_at": "2026-11-10",
+      "closes_at": "",
+      "closes_estimated": "2026-12-25",
+      "closes_confidence": "high",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "Zeitraum: ab Februar 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [
+        "Du bist aktuell in einem naturwissenschaftlichen Studium (z.B. B.Sc. / M.Sc. Chemie, Biochemie, Biotechnologie, Biologie, etc.) immatrikuliert oder Du befindest Dich in Deinem Gap-Year.",
+        "Du bringst eine hohe Motivation und Neugierde für die Arbeit in der Qualitätskontrolle mit.",
+        "Idealerweise verfügst Du über Vorkenntnisse in der proteinchemischen Analytik.",
+        "Solide Deutsch-Kenntnisse sind erforderlich.",
+        "Deine Vorteile",
+        "Flexible Arbeitszeiten (37,5 Stundenwoche)",
+        "2268 € Vergütung im Monat für ein Vollzeitpraktikum",
+        "Vergünstigte Essenspreise (-50 %) in unserer Mitarbeiter-Kantine"
+      ],
+      "languages": [
+        "German"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "roche-7c5f7c8fa03e"
     },
     {
       "company": "Roche",
@@ -8662,8 +8698,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-10",
       "uid": "sanofi-a8d9bf486117"
     },
     {
@@ -9929,9 +9965,9 @@
       "location": "Hatfield, England, United Kingdom",
       "country": "United Kingdom",
       "first_seen": "2026-10-27",
-      "posted_at": "2026-10-27",
+      "posted_at": "2026-11-10",
       "closes_at": "",
-      "closes_estimated": "2026-12-11",
+      "closes_estimated": "2026-12-25",
       "closes_confidence": "high",
       "start_date": "",
       "start_precision": "",
@@ -9952,8 +9988,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-29",
+      "status": "open",
+      "closed_on": "",
       "uid": "viatris-6088f10273b2"
     },
     {
