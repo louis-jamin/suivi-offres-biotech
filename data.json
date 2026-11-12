@@ -4819,9 +4819,9 @@
       "contract": "Internship",
       "duration": "",
       "requirements": [
-        "This internship provides experience of a global pharmacovigilance system and its regulatory compliance aspects, including but not limited to PV system monitoring, compliance oversight, quality events, change control, and participation in audits and inspections impacting the department.",
-        "Through this experience, the intern will gain practical insights into different aspects of the PV system and will have the opportunity to be part of the QPPV Office, a key function ensuring compliance with pharmacovigilance requirements.",
-        "Pharmacovigilance System Master File (PSMF) : Support team for the maintenance and update of the EEA PSMF.",
+        "This internship provides experience of a global PV system and its compliance aspects, including but not limited to PV system monitoring, compliance oversight, quality events, change control, and participation in audits and inspections impacting the department.",
+        "Through this experience, the intern will gain practical insights into different aspects of the PV system and will have the opportunity to be part of the QPPV Office, a key function ensuring compliance with PV requirements.",
+        "EEA Pharmacovigilance System Master File (PSMF) : Support team for the maintenance and update of the EEA PSMF.",
         "Knowledge of the Pharmaceutical Industry and Drug Safety."
       ],
       "languages": [
@@ -5065,6 +5065,43 @@
       "status": "open",
       "closed_on": "",
       "uid": "ipsen-f2a99a5d0a22"
+    },
+    {
+      "company": "Ipsen",
+      "title": "Stagiaire Qualité Management IT",
+      "url": "https://ipsen.wd103.myworkdayjobs.com/Ipsen_Careers/job/Paris/Stagiaire-Qualit-Management-IT_R-22841-1",
+      "location": "Paris",
+      "country": "France",
+      "first_seen": "2026-11-12",
+      "posted_at": "2026-11-12",
+      "closes_at": "",
+      "closes_estimated": "2026-12-27",
+      "closes_confidence": "high",
+      "start_date": "2027-01-01",
+      "start_precision": "inferred",
+      "start_evidence": "à partir de janvier",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Formation : Etudiant niveau BAC + 5 Pharmacie, Ingénieur, en vue d’une spécialisation en Assurance Qualité",
+        "Langues maîtrisées : Français et Anglais",
+        "Compétences / Soft Skills :",
+        "Pack office: Word, Excel, PowerPoint",
+        "Autonomie et force de proposition",
+        "Travail en équipe",
+        "Bonne communication et bon relationnel",
+        "Être à l’aise en anglais"
+      ],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "ipsen-feb16e984712"
     },
     {
       "company": "Lesaffre",
@@ -8720,6 +8757,35 @@
       "status": "open",
       "closed_on": "",
       "uid": "sanofi-9201f1e60021"
+    },
+    {
+      "company": "Sanofi",
+      "title": "stage 6 mois développement procédés biologiques",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Marcy-lEtoile/stage-6-mois-dveloppement-procds-biologiques_R2878626",
+      "location": "Marcy-l'Etoile",
+      "country": "France",
+      "first_seen": "2026-11-12",
+      "posted_at": "2026-11-12",
+      "closes_at": "2027-03-12",
+      "closes_estimated": "2027-03-12",
+      "closes_confidence": "stated",
+      "start_date": "2027-02-01",
+      "start_precision": "month",
+      "start_evidence": "A partir de : février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Éducation : bac+5 en microbiologie ou en biotechnologie"
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "sanofi-93d2c2b830ab"
     },
     {
       "company": "Sanofi",
