@@ -3047,8 +3047,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "gsk-180d562497c2"
     },
     {
@@ -3295,8 +3295,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "gsk-500045f6a06f"
     },
     {
@@ -3440,8 +3440,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "gsk-64140b31d9cd"
     },
     {
@@ -3657,8 +3657,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "gsk-8537a8eb2570"
     },
     {
@@ -3694,8 +3694,8 @@
       ],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "gsk-880cac0c7f30"
     },
     {
@@ -4122,8 +4122,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "gsk-c1ea83b18fc5"
     },
     {
@@ -4231,8 +4231,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "gsk-d79736589fb0"
     },
     {
@@ -6099,9 +6099,9 @@
       "location": "Paris",
       "country": "France",
       "first_seen": "2026-10-12",
-      "posted_at": "2026-10-12",
-      "closes_at": "2026-11-09",
-      "closes_estimated": "2026-11-09",
+      "posted_at": "2026-11-13",
+      "closes_at": "2026-11-18",
+      "closes_estimated": "2026-11-18",
       "closes_confidence": "stated",
       "start_date": "2027-01-01",
       "start_precision": "approx",
@@ -6116,8 +6116,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-10-20",
+      "status": "open",
+      "closed_on": "",
       "uid": "roche-a74458ab42c7"
     },
     {
@@ -10718,8 +10718,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "viatris-8d576906088e"
     },
     {
@@ -10748,8 +10748,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "viatris-9b690705e018"
     },
     {
@@ -10841,8 +10841,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-13",
       "uid": "viatris-f81961e5f008"
     }
   ]
