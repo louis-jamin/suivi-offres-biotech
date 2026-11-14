@@ -217,8 +217,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-14",
+      "status": "open",
+      "closed_on": "",
       "uid": "amgen-2f32388b88af"
     },
     {
@@ -280,8 +280,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-14",
+      "status": "open",
+      "closed_on": "",
       "uid": "amgen-74dda68ff923"
     },
     {
@@ -373,8 +373,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-14",
+      "status": "open",
+      "closed_on": "",
       "uid": "amgen-a8e3cc3e33d4"
     },
     {
@@ -3023,8 +3023,8 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-29",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
-      "closes_confidence": "high",
+      "closes_estimated": "2026-11-21",
+      "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "year",
       "start_evidence": "Chemical Engineering (MSAT) Graduate Programme, Italy, 2027",
@@ -3047,8 +3047,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-180d562497c2"
     },
     {
@@ -3295,8 +3295,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-500045f6a06f"
     },
     {
@@ -3416,8 +3416,8 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-29",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
-      "closes_confidence": "high",
+      "closes_estimated": "2026-11-21",
+      "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "year",
       "start_evidence": "Engineering Multidiscipline Graduate Programme, Belgium, 2027",
@@ -3440,8 +3440,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-64140b31d9cd"
     },
     {
@@ -3633,8 +3633,8 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-29",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
-      "closes_confidence": "high",
+      "closes_estimated": "2026-11-21",
+      "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "year",
       "start_evidence": "Engineering Multidiscipline Graduate Programme, Italy, 2027",
@@ -3657,8 +3657,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-8537a8eb2570"
     },
     {
@@ -3694,8 +3694,8 @@
       ],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-880cac0c7f30"
     },
     {
@@ -4098,8 +4098,8 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-29",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
-      "closes_confidence": "high",
+      "closes_estimated": "2026-11-21",
+      "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "year",
       "start_evidence": "Manufacturing Operations Graduate Programme, France, 2027",
@@ -4122,8 +4122,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-c1ea83b18fc5"
     },
     {
@@ -4207,8 +4207,8 @@
       "first_seen": "2026-09-29",
       "posted_at": "2026-09-29",
       "closes_at": "",
-      "closes_estimated": "2026-11-13",
-      "closes_confidence": "high",
+      "closes_estimated": "2026-11-21",
+      "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "year",
       "start_evidence": "Manufacturing Operations Graduate Programme, Belgium, 2027",
@@ -4231,8 +4231,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "gsk-d79736589fb0"
     },
     {
@@ -10697,7 +10697,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-07-03",
       "closes_at": "",
-      "closes_estimated": "2026-11-20",
+      "closes_estimated": "2026-11-21",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -10718,8 +10718,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "viatris-8d576906088e"
     },
     {
@@ -10748,8 +10748,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "viatris-9b690705e018"
     },
     {
@@ -10841,8 +10841,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-13",
+      "status": "open",
+      "closed_on": "",
       "uid": "viatris-f81961e5f008"
     }
   ]
