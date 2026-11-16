@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15",
+  "generated_at": "2026-11-16",
   "vocab": {
     "stages": [
       "Not applied",
@@ -60,8 +60,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "almirall-76d4d36bc7c1"
     },
     {
@@ -121,8 +121,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "almirall-bee252824933"
     },
     {
@@ -217,8 +217,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "amgen-2f32388b88af"
     },
     {
@@ -280,8 +280,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "amgen-74dda68ff923"
     },
     {
@@ -373,8 +373,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "amgen-a8e3cc3e33d4"
     },
     {
@@ -932,8 +932,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "astrazeneca-835605f14d41"
     },
     {
@@ -1088,8 +1088,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "astrazeneca-a342911e5140"
     },
     {
@@ -1185,8 +1185,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "astrazeneca-d92d47b78ffe"
     },
     {
@@ -1356,8 +1356,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "biogen-f36a05fffefd"
     },
     {
@@ -1502,7 +1502,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-11-22",
+      "closes_estimated": "2026-11-23",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1657,7 +1657,7 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-22",
+      "closes_estimated": "2026-11-23",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1684,7 +1684,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-11-22",
+      "closes_estimated": "2026-11-23",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1712,7 +1712,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-11-22",
+      "closes_estimated": "2026-11-23",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1749,7 +1749,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-11-22",
+      "closes_estimated": "2026-11-23",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -2128,6 +2128,37 @@
       "status": "closed",
       "closed_on": "2026-10-09",
       "uid": "eurofins-670a47dfb3b8"
+    },
+    {
+      "company": "Eurofins",
+      "title": "Junior Performance Management Analyst",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000161771239",
+      "location": "Brussels, be",
+      "country": "",
+      "first_seen": "2026-11-16",
+      "posted_at": "2026-11-16",
+      "closes_at": "",
+      "closes_estimated": "2026-12-26",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Unknown",
+      "contract": "",
+      "duration": "",
+      "requirements": [
+        "A unique opportunity to gain experience within a fast‑growing, international organisation.",
+        "Education: Recently graduated with a master’s degree from a top science, engineering or management university.",
+        "Language Proficiency: Fluent in English (oral and written). Additional languages are a plus."
+      ],
+      "languages": [
+        "English"
+      ],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-68a5b83b85f6"
     },
     {
       "company": "Eurofins",
@@ -3047,8 +3078,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "gsk-180d562497c2"
     },
     {
@@ -3295,8 +3326,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "gsk-500045f6a06f"
     },
     {
@@ -3440,8 +3471,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "gsk-64140b31d9cd"
     },
     {
@@ -3657,8 +3688,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "gsk-8537a8eb2570"
     },
     {
@@ -3694,8 +3725,8 @@
       ],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "gsk-880cac0c7f30"
     },
     {
@@ -4122,8 +4153,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "gsk-c1ea83b18fc5"
     },
     {
@@ -4231,8 +4262,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "gsk-d79736589fb0"
     },
     {
@@ -4417,31 +4448,6 @@
     },
     {
       "company": "Institut Curie",
-      "title": "PhD Thesis (M/F) Human neural stem cell lineages",
-      "url": "https://institut-curie.org/job/phd-thesis-mf-human-neural-stem-cell-lineages-48xllqzvr0",
-      "location": "",
-      "country": "",
-      "first_seen": "2026-11-15",
-      "posted_at": "",
-      "closes_at": "",
-      "closes_estimated": "2026-12-15",
-      "closes_confidence": "low",
-      "start_date": "",
-      "start_precision": "",
-      "start_evidence": "",
-      "season": "PhD / Thesis",
-      "contract": "PhD",
-      "duration": "",
-      "requirements": [],
-      "languages": [],
-      "process": "",
-      "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
-      "uid": "institut-curie-a1d6ccb15522"
-    },
-    {
-      "company": "Institut Curie",
       "title": "Internships for students and doctors",
       "url": "https://institut-curie.org/internships-students-and-doctors",
       "location": "",
@@ -4449,7 +4455,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-15",
+      "closes_estimated": "2026-12-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4586,7 +4592,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-15",
+      "closes_estimated": "2026-12-16",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4758,8 +4764,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "ipsen-058d01bace03"
     },
     {
@@ -4830,8 +4836,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "ipsen-45e3670e7b2e"
     },
     {
@@ -4896,8 +4902,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "ipsen-80bb02314055"
     },
     {
@@ -4928,8 +4934,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "ipsen-995aa10d38de"
     },
     {
@@ -5029,8 +5035,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "ipsen-bf0ccae45b4a"
     },
     {
@@ -5100,8 +5106,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "ipsen-ca4ba1707bed"
     },
     {
@@ -5161,8 +5167,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "ipsen-f2a99a5d0a22"
     },
     {
@@ -5198,8 +5204,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "ipsen-feb16e984712"
     },
     {
@@ -5211,7 +5217,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-11-22",
+      "closes_estimated": "2026-11-23",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5239,7 +5245,7 @@
       "first_seen": "2026-10-01",
       "posted_at": "2026-10-01",
       "closes_at": "",
-      "closes_estimated": "2026-11-22",
+      "closes_estimated": "2026-11-23",
       "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5339,7 +5345,7 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-22",
+      "closes_estimated": "2026-11-23",
       "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5598,8 +5604,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "revvity-9b96f2c22458"
     },
     {
@@ -5761,8 +5767,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "roche-385ba2602acc"
     },
     {
@@ -6011,8 +6017,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "roche-72623d2687e0"
     },
     {
@@ -6084,8 +6090,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "roche-7c5f7c8fa03e"
     },
     {
@@ -6141,8 +6147,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "roche-a74458ab42c7"
     },
     {
@@ -6404,8 +6410,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "roche-e791013b9216"
     },
     {
@@ -6464,8 +6470,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-001946f93fca"
     },
     {
@@ -6586,8 +6592,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-041bfc12c218"
     },
     {
@@ -6677,8 +6683,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-0a4345715e02"
     },
     {
@@ -6706,8 +6712,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-0abc7db7b0d4"
     },
     {
@@ -6766,8 +6772,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-0d2136d898cf"
     },
     {
@@ -6854,8 +6860,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-0ffd6b6d6eed"
     },
     {
@@ -6920,8 +6926,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-10f81af9a82d"
     },
     {
@@ -6978,8 +6984,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-132a26f5cb1b"
     },
     {
@@ -7067,8 +7073,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-1b077e889c3f"
     },
     {
@@ -7310,8 +7316,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-2ec9b0b9bc2a"
     },
     {
@@ -7369,8 +7375,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-32de5d5ed3fa"
     },
     {
@@ -7457,8 +7463,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-3da3a8d69f2e"
     },
     {
@@ -7554,8 +7560,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-4859c37a9cee"
     },
     {
@@ -7673,8 +7679,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-4fe2724a2ce8"
     },
     {
@@ -7825,8 +7831,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-60faf55762e0"
     },
     {
@@ -7888,8 +7894,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-650ce469c9cb"
     },
     {
@@ -8019,8 +8025,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-68c77cb644f0"
     },
     {
@@ -8150,8 +8156,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-787677237ee3"
     },
     {
@@ -8180,8 +8186,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-799d7668eb2b"
     },
     {
@@ -8272,8 +8278,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-7adb53023b40"
     },
     {
@@ -8525,8 +8531,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-81398a6ca676"
     },
     {
@@ -8585,8 +8591,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-83884abe2e0c"
     },
     {
@@ -8645,8 +8651,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-8a91922de865"
     },
     {
@@ -8675,8 +8681,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-8c36803e6b40"
     },
     {
@@ -8702,8 +8708,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-8e374f31d229"
     },
     {
@@ -8731,8 +8737,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-8e81c5acbb3f"
     },
     {
@@ -8794,8 +8800,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-91b2159d342e"
     },
     {
@@ -8882,8 +8888,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-93d2c2b830ab"
     },
     {
@@ -8940,8 +8946,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-94b54401633c"
     },
     {
@@ -9373,8 +9379,8 @@
       ],
       "process": "HR screen",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-a965614ffbff"
     },
     {
@@ -9433,8 +9439,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-ae752887c2f0"
     },
     {
@@ -9462,8 +9468,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-af2200c515ba"
     },
     {
@@ -9662,8 +9668,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-c1aaac4b3130"
     },
     {
@@ -9837,8 +9843,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-cb64bfdb786a"
     },
     {
@@ -9866,8 +9872,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-cd4ab5d16e69"
     },
     {
@@ -9953,8 +9959,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-d56a3e4907d2"
     },
     {
@@ -9983,8 +9989,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-d897cc2d89da"
     },
     {
@@ -10196,8 +10202,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-e38c1a447312"
     },
     {
@@ -10350,8 +10356,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-ec2810db4fc4"
     },
     {
@@ -10379,8 +10385,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-ece40935be9f"
     },
     {
@@ -10409,8 +10415,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-f4b00f294dd5"
     },
     {
@@ -10511,8 +10517,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-fe0ac04243b2"
     },
     {
@@ -10543,8 +10549,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sanofi-fe279d786137"
     },
     {
@@ -10606,8 +10612,8 @@
       ],
       "process": "HR screen",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sonio-8c39fd9e99dd"
     },
     {
@@ -10643,8 +10649,8 @@
       ],
       "process": "HR screen",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "sonio-9d3eae5db4c5"
     },
     {
@@ -10743,8 +10749,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "viatris-8d576906088e"
     },
     {
@@ -10773,8 +10779,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "viatris-9b690705e018"
     },
     {
@@ -10866,8 +10872,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-16",
       "uid": "viatris-f81961e5f008"
     }
   ]
