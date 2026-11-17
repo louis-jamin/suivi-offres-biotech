@@ -1426,8 +1426,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-17",
       "uid": "brainlab-00cfc93170af"
     },
     {
@@ -1644,8 +1644,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-17",
       "uid": "brainlab-c84699750dd2"
     },
     {
@@ -1671,8 +1671,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-17",
       "uid": "brainlab-d5e8a9ea9f6a"
     },
     {
@@ -2830,6 +2830,40 @@
       "status": "closed",
       "closed_on": "2026-09-18",
       "uid": "eurofins-fff4d3f391a0"
+    },
+    {
+      "company": "Genomics plc",
+      "title": "Graduate Business Analyst, Healthcare",
+      "url": "https://jobs.ashbyhq.com/genomics/d3a41bdd-6efe-4aa3-b50a-103ed8255e32",
+      "location": "London",
+      "country": "",
+      "first_seen": "2026-11-17",
+      "posted_at": "2026-11-17",
+      "closes_at": "",
+      "closes_estimated": "2026-12-22",
+      "closes_confidence": "high",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Unknown",
+      "contract": "",
+      "duration": "",
+      "requirements": [
+        "Data-curious: A graduate (or equivalent experience) in Life Sciences, Business Administration, or a related field, comfortable with Excel or Google Sheets and keen to learn tools like Power BI or Tableau.",
+        "Genuinely interested in healthcare: You have a genuine interest in healthcare, pharmaceuticals and therapeutics, and enjoy following market trends and dynamics.",
+        "Detail-driven: You take pride in accuracy, keep things organised, and can manage several threads of work at once.",
+        "A clear communicator: You can explain complex ideas simply, and you're just as comfortable contributing in a team as working independently.",
+        "Self-motivated: You take initiative, follow through, and bring energy to everything you do.",
+        "Your Package",
+        "We are committed to providing a transparent, supportive, and rewarding work environment.",
+        "Compensation & Growth"
+      ],
+      "languages": [],
+      "process": "HR screen",
+      "process_rounds": 1,
+      "status": "open",
+      "closed_on": "",
+      "uid": "genomics-plc-6e50261f9070"
     },
     {
       "company": "GSK",
@@ -4672,6 +4706,40 @@
     },
     {
       "company": "Institut Pasteur",
+      "title": "Post-Doctoral researcher/research scientist position in cancer immunotherapy,Institut Pasteur, Paris, France Dendritic cells and adaptive immunity",
+      "url": "https://research.pasteur.fr/en/job/post-doctoral-researcher-research-scientist-position-in-cancer-immunotherapyinstitut-pasteur-paris-france/",
+      "location": "",
+      "country": "",
+      "first_seen": "2026-11-17",
+      "posted_at": "",
+      "closes_at": "2027-01-31",
+      "closes_estimated": "2027-01-31",
+      "closes_confidence": "stated",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "PhD / Thesis",
+      "contract": "PhD",
+      "duration": "",
+      "requirements": [
+        "We are looking for highly motivated individuals willing to improve current immunotherapies by tissue engineering through mRNA LNPs. The successful candidate is expected to have:",
+        "A former working experience and training/habilitation in animal experimentation (mandatory).",
+        "Preferably PhD level, preferably without former postdoctoral experience.",
+        "A solid scientific background in cancer immunology, T cell immunology or CAR T cell therapy.",
+        "A strong interest in preclinical models of cancer.",
+        "Interest or experience with mRNA-LNP technology.",
+        "Project leadership, drive and dynamism.",
+        "Competences in bioinformatics are a strong asset for this position. Carrer development in academic research will be strongly supported by the laboratory."
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "institut-pasteur-91108dca301a"
+    },
+    {
+      "company": "Institut Pasteur",
       "title": "PhD position to resolve structural ribosome heterogeneity in the human malaria parasite Parasite RNA Biology",
       "url": "https://research.pasteur.fr/en/job/phd-position-to-resolve-structural-ribosome-heterogeneity-in-the-human-malaria-parasite/",
       "location": "",
@@ -4857,8 +4925,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-17",
       "uid": "ipsen-995aa10d38de"
     },
     {
@@ -5115,8 +5183,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-17",
       "uid": "ipsen-fd7e0a2a0656"
     },
     {
@@ -5140,8 +5208,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-17",
       "uid": "ipsen-feb16e984712"
     },
     {
@@ -5543,6 +5611,31 @@
       "status": "closed",
       "closed_on": "2026-11-16",
       "uid": "revvity-9b96f2c22458"
+    },
+    {
+      "company": "Revvity",
+      "title": "Stagiaire R&D - Imagerie",
+      "url": "https://revvity.wd103.myworkdayjobs.com/External/job/France-Cisbio---Site/Stagiaire-R-D---Imagerie_JR-046074",
+      "location": "France (Cisbio) - Site",
+      "country": "",
+      "first_seen": "2026-11-17",
+      "posted_at": "",
+      "closes_at": "",
+      "closes_estimated": "2027-01-01",
+      "closes_confidence": "low",
+      "start_date": "",
+      "start_precision": "",
+      "start_evidence": "",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "",
+      "requirements": [],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "revvity-f3addc01801a"
     },
     {
       "company": "Roche",
