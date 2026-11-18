@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17",
+  "generated_at": "2026-11-18",
   "vocab": {
     "stages": [
       "Not applied",
@@ -88,8 +88,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "almirall-bee252824933"
     },
     {
@@ -1469,7 +1469,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1651,7 +1651,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1679,7 +1679,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1716,7 +1716,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -2598,6 +2598,38 @@
     },
     {
       "company": "Eurofins",
+      "title": "Stage – Ingénieur.e Amélioration Continue / Lean – Déploiement 5S & Optimisation des flux",
+      "url": "https://jobs.smartrecruiters.com/Eurofins/744000162277509",
+      "location": "Paris, fr",
+      "country": "",
+      "first_seen": "2026-11-18",
+      "posted_at": "2026-11-18",
+      "closes_at": "",
+      "closes_estimated": "2026-12-28",
+      "closes_confidence": "high",
+      "start_date": "2027-01-01",
+      "start_precision": "month",
+      "start_evidence": "à pourvoir dès janvier/février 2027",
+      "season": "Off-cycle",
+      "contract": "Internship",
+      "duration": "6 months",
+      "requirements": [
+        "Pragmatique et organisé.e ;",
+        "Curieux.se et force de proposition ;",
+        "À l’aise pour animer de petits groupes de travail ;",
+        "Attiré.e par les environnements scientifiques et techniques.",
+        "Une appétence pour les sujets très opérationnels et techniques sera particulièrement appréciée.",
+        "Stage de fin d'études de 6 mois à pourvoir dès janvier/février 2027 à Paris (18e)"
+      ],
+      "languages": [],
+      "process": "",
+      "process_rounds": null,
+      "status": "open",
+      "closed_on": "",
+      "uid": "eurofins-d031527e4014"
+    },
+    {
+      "company": "Eurofins",
       "title": "Stage - Ingénieur R&D RMN (H/F) - Nantes (44)",
       "url": "https://jobs.smartrecruiters.com/Eurofins/744000149253799",
       "location": "Nantes, fr",
@@ -3042,8 +3074,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-1595d372ae7c"
     },
     {
@@ -3115,8 +3147,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-180d562497c2"
     },
     {
@@ -3326,8 +3358,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-462066e1ec92"
     },
     {
@@ -3399,8 +3431,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-500045f6a06f"
     },
     {
@@ -3544,8 +3576,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-64140b31d9cd"
     },
     {
@@ -3760,8 +3792,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-81e8e42c7b61"
     },
     {
@@ -3797,8 +3829,8 @@
       ],
       "process": "Final / on-site",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-8537a8eb2570"
     },
     {
@@ -3834,8 +3866,8 @@
       ],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-880cac0c7f30"
     },
     {
@@ -4262,8 +4294,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-c1ea83b18fc5"
     },
     {
@@ -4334,8 +4366,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-cf43e8a7ccc0"
     },
     {
@@ -4407,8 +4439,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-d79736589fb0"
     },
     {
@@ -4623,8 +4655,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-18",
       "uid": "gsk-f6117f66169b"
     },
     {
@@ -4636,7 +4668,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-17",
+      "closes_estimated": "2026-12-18",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4773,7 +4805,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-17",
+      "closes_estimated": "2026-12-18",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5368,7 +5400,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-02-09",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5396,7 +5428,7 @@
       "first_seen": "2026-10-01",
       "posted_at": "2026-10-01",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -5496,7 +5528,7 @@
       "first_seen": "2026-09-25",
       "posted_at": "2026-09-25",
       "closes_at": "",
-      "closes_estimated": "2026-11-24",
+      "closes_estimated": "2026-11-25",
       "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -10964,19 +10996,28 @@
       "title": "Stagiaire Coordinateur Qualité, Sécurité, Performance Unité : Bioproduction Lysats (stage de 4 à 6 mois)- Chatillon sur Chalaronne",
       "url": "https://viatris.wd5.myworkdayjobs.com/External/job/Chatillon-sur-Chalaronne-Auvergne-Rhone-Alpes-France/Stagiaire-Coordinateur-Qualit--Scurit--Performance-Unit---Bioproduction-Lysats--stage-de-4--6-mois---Chatillon-sur-Chalaronne_R5675615",
       "location": "Chatillon-sur-Chalaronne, Auvergne-Rhone-Alpes, France",
-      "country": "",
+      "country": "France",
       "first_seen": "2026-11-17",
-      "posted_at": "",
+      "posted_at": "2026-11-17",
       "closes_at": "",
       "closes_estimated": "2027-01-01",
-      "closes_confidence": "low",
+      "closes_confidence": "high",
       "start_date": "",
       "start_precision": "",
       "start_evidence": "",
       "season": "Off-cycle",
       "contract": "Internship",
       "duration": "",
-      "requirements": [],
+      "requirements": [
+        "Pour ce poste, nous recherchons un candidat qui possède une combinaison efficace de compétences, talents et expériences suivants :",
+        "Bac +4 ou +5 avec des bases solides en biologie/biochimie/biotechnologie",
+        "Curiosité, capacité à apprendre",
+        "Aisance informatique",
+        "Esprit d’équipe",
+        "Capacité d’initiative et de synthèse",
+        "Force de proposition, prise de recul",
+        "Diversité et inclusion chez Viatris"
+      ],
       "languages": [],
       "process": "",
       "process_rounds": null,
