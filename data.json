@@ -1323,8 +1323,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "closed",
-      "closed_on": "2026-11-16",
+      "status": "open",
+      "closed_on": "",
       "uid": "biogen-f36a05fffefd"
     },
     {
@@ -3770,8 +3770,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-21",
       "uid": "gsk-7f4ba1d8ca72"
     },
     {
