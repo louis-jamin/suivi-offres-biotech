@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25",
+  "generated_at": "2026-11-26",
   "vocab": {
     "stages": [
       "Not applied",
@@ -1385,7 +1385,7 @@
       "first_seen": "2026-11-23",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-30",
+      "closes_estimated": "2026-12-31",
       "closes_confidence": "low",
       "start_date": "2027-09-01",
       "start_precision": "month",
@@ -1513,7 +1513,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-12-02",
+      "closes_estimated": "2026-12-03",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1577,8 +1577,8 @@
       "first_seen": "2026-10-16",
       "posted_at": "2026-10-16",
       "closes_at": "",
-      "closes_estimated": "2026-11-25",
-      "closes_confidence": "high",
+      "closes_estimated": "2026-12-03",
+      "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
       "start_evidence": "",
@@ -1695,7 +1695,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-12-02",
+      "closes_estimated": "2026-12-03",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1723,7 +1723,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-12-02",
+      "closes_estimated": "2026-12-03",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1760,7 +1760,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-12-02",
+      "closes_estimated": "2026-12-03",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -3143,8 +3143,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "gsk-1595d372ae7c"
     },
     {
@@ -3416,8 +3416,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "gsk-462066e1ec92"
     },
     {
@@ -3489,8 +3489,8 @@
       ],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "gsk-500045f6a06f"
     },
     {
@@ -3803,8 +3803,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "gsk-7f4ba1d8ca72"
     },
     {
@@ -3864,8 +3864,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "gsk-81e8e42c7b61"
     },
     {
@@ -3938,8 +3938,8 @@
       ],
       "process": "1 round (unspecified)",
       "process_rounds": 1,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "gsk-880cac0c7f30"
     },
     {
@@ -4427,8 +4427,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "gsk-cf43e8a7ccc0"
     },
     {
@@ -4729,7 +4729,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-25",
+      "closes_estimated": "2026-12-26",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4866,7 +4866,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-25",
+      "closes_estimated": "2026-12-26",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5097,8 +5097,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "ipsen-1268291febdf"
     },
     {
@@ -5480,8 +5480,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "ipsen-fdb44b9881e5"
     },
     {
@@ -5505,8 +5505,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-26",
       "uid": "ipsen-feb16e984712"
     },
     {
@@ -5546,7 +5546,7 @@
       "first_seen": "2026-10-01",
       "posted_at": "2026-10-01",
       "closes_at": "",
-      "closes_estimated": "2026-12-02",
+      "closes_estimated": "2026-12-03",
       "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
