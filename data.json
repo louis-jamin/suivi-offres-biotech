@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27",
+  "generated_at": "2026-11-28",
   "vocab": {
     "stages": [
       "Not applied",
@@ -1385,7 +1385,7 @@
       "first_seen": "2026-11-23",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2027-01-01",
+      "closes_estimated": "2027-01-02",
       "closes_confidence": "low",
       "start_date": "2027-09-01",
       "start_precision": "month",
@@ -1513,7 +1513,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-04-23",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1577,7 +1577,7 @@
       "first_seen": "2026-10-16",
       "posted_at": "2026-10-16",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1695,7 +1695,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-06-11",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1723,7 +1723,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -1760,7 +1760,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "2026-10-02",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-05",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4801,7 +4801,7 @@
       "first_seen": "2026-09-28",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-27",
+      "closes_estimated": "2026-12-28",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -4938,7 +4938,7 @@
       "first_seen": "2026-09-18",
       "posted_at": "",
       "closes_at": "",
-      "closes_estimated": "2026-12-27",
+      "closes_estimated": "2026-12-28",
       "closes_confidence": "low",
       "start_date": "",
       "start_precision": "",
@@ -5618,7 +5618,7 @@
       "first_seen": "2026-10-01",
       "posted_at": "2026-10-01",
       "closes_at": "",
-      "closes_estimated": "2026-12-04",
+      "closes_estimated": "2026-12-05",
       "closes_confidence": "low",
       "start_date": "2027-01-01",
       "start_precision": "month",
@@ -7609,8 +7609,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-28",
       "uid": "sanofi-123467da2431"
     },
     {
@@ -7663,8 +7663,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-28",
       "uid": "sanofi-1389a82f4b89"
     },
     {
@@ -8491,8 +8491,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-28",
       "uid": "sanofi-56be4937e748"
     },
     {
@@ -8897,8 +8897,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-28",
       "uid": "sanofi-75d939eb56ca"
     },
     {
@@ -9395,8 +9395,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-28",
       "uid": "sanofi-8627489746db"
     },
     {
@@ -9717,8 +9717,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-28",
       "uid": "sanofi-9415d2dc613a"
     },
     {
@@ -10774,8 +10774,8 @@
       "languages": [],
       "process": "",
       "process_rounds": null,
-      "status": "open",
-      "closed_on": "",
+      "status": "closed",
+      "closed_on": "2026-11-28",
       "uid": "sanofi-d3f646ddf9d1"
     },
     {
